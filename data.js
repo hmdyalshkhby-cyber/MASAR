@@ -8,249 +8,9 @@ const platformData = {
             "lectures": [
                 {
                     "id": 1,
-                        "title": "المحاضرة 1",
-                    // "content": "في هذه المحاضرة سنتناول موضوع \"الحروف والأصوات\" ضمن قسم \"أساسيات اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                    "pdfUrl": "https://drive.google.com/file/d/1Z8J-h0IFo5i5mQVo2v4-Gg_BpwaV6PuJ/view?usp=drive_link",
-                    "vocabulary": [
-
-                    ],
-                    "importantPoints": [
-                    ],
-                    "flashcards":
-                        [
-                            {
-                                "term": "Basic Components of Itinerary",
-                                "definition": "The six basic components are: (A) Transportation, (B) Transfer (Meet & Assist), (C) Accommodation, (D) Sightseeing, (E) Lunch-Out, and (F) Dinner Show."
-                            },
-                            {
-                                "term": "International Flight",
-                                "definition": "A flight that takes off in one country and lands in another."
-                            },
-                            {
-                                "term": "Domestic Flight",
-                                "definition": "A flight that begins and ends in the same country."
-                            },
-                            {
-                                "term": "Sea Cruise",
-                                "definition": "A large passenger ship used mainly for vacationing, serving as both transportation by sea and a kind of accommodation equipped and staffed for leisure travel."
-                            },
-                            {
-                                "term": "Sleeping Trains",
-                                "definition": "Trains that include a bed and a meal during trips, usually used by tourists when traveling for long distances (more than 5 hours)."
-                            },
-                            {
-                                "term": "Day Trains (Sitting Trains)",
-                                "definition": "Normal trains serving many destinations in Egypt that are usually much less expensive than sleeping trains."
-                            },
-                            {
-                                "term": "Transfer (Meet & Assist)",
-                                "definition": "Transport provided between two places, for example between an airport and a hotel or between a train station and a hotel and vice versa."
-                            },
-                            {
-                                "term": "Accommodation Check-in/Check-out Times",
-                                "definition": "Check-in is usually at 12:00 and check-out procedures are also at 12:00."
-                            },
-                            {
-                                "term": "Hotel",
-                                "definition": "A place that has rooms where people can stay especially when traveling, providing food, lodging, and other services for paying guests."
-                            },
-                            {
-                                "term": "Resort",
-                                "definition": "A place where tourists frequently or generally go for relaxation or pleasure, especially one providing rest and recreation facilities for vacationers."
-                            },
-                            {
-                                "term": "Motels",
-                                "definition": "A type of budget-friendly lodging designed primarily for travelers, typically located along highways and major roads, offering easy access to parking with rooms that open directly to the outside."
-                            },
-                            {
-                                "term": "Hostels",
-                                "definition": "A popular, social lodging option among budget travelers that offers dormitory-style rooms and shared facilities."
-                            },
-                            {
-                                "term": "Classical Cruise (Nile)",
-                                "definition": "A Nile cruise lasting from 3 to 4 nights between Luxor and Aswan."
-                            },
-                            {
-                                "term": "Long Cruise (Nile)",
-                                "definition": "A Nile cruise lasting from 6 to 7 nights between Luxor and Aswan."
-                            },
-                            {
-                                "term": "Super Long Cruise (Nile)",
-                                "definition": "A Nile cruise lasting from 12 to 13 nights between Cairo and Aswan."
-                            },
-                            {
-                                "term": "Lake Cruise",
-                                "definition": "A cruise lasting 4 nights, such as a Lake Nasser Cruise."
-                            },
-                            {
-                                "term": "Restaurant Cruise",
-                                "definition": "A cruise usually in Cairo for lunch or dinner with entertainment, where each tour lasts 2 hours."
-                            },
-                            {
-                                "term": "Sightseeing (Attractions)",
-                                "definition": "Famous or interesting sights of a place that tourists visit, involving landmarks, historical sites, natural wonders, museums, galleries, cultural experiences, city tours, scenic drives, architecture tours, wildlife viewing, and culinary tours."
-                            },
-                            {
-                                "term": "Lunch-Out",
-                                "definition": "The act of dining at a restaurant, café, or other food establishment away from one's accommodation during travel, offering guests a curated experience to enjoy local cuisine."
-                            },
-                            {
-                                "term": "Dinner Show",
-                                "definition": "A dining experience that combines a meal with a live entertainment performance (such as music, dance, theater, or comedy) to provide a multi-sensory, immersive cultural experience."
-                            }
-                            ],
+                    "title": "المحاضرة 1",
+                    "vocabulary": [],
                     "quiz": [
-                            
-  {
-    "question": "A flight that takes off in one country and lands in another.",
-    "options": ["International Flight", "Domestic Flight", "Sea Cruise", "Sleeping Trains"],
-    "correct": 0
-  },
-  {
-    "question": "A flight that begins and ends in the same country.",
-    "options": ["International Flight", "Domestic Flight", "Sea Cruise", "Day Trains"],
-    "correct": 1
-  },
-  {
-    "question": "Several bus companies provide affordable pricing and comfortable chairs to all Egyptian cities.",
-    "options": ["Buses", "Sleeping Trains", "Sea Cruise", "Transfer (Meet & Assist)"],
-    "correct": 0
-  },
-  {
-    "question": "A large passenger ship used mainly for vacationing, serving as both sea transportation and accommodation, equipped and staffed for leisure travel.",
-    "options": ["Sleeping Trains", "Sea Cruise", "Resort", "Day Trains"],
-    "correct": 1
-  },
-  {
-    "question": "Trains that include a bed and a meal while on trips, usually used when traveling for long distances (more than 5 hours).",
-    "options": ["Day Trains", "Buses", "Sleeping Trains", "Sea Cruise"],
-    "correct": 2
-  },
-  {
-    "question": "Normal sitting trains serving many destinations in Egypt, usually much less expensive than sleeping trains.",
-    "options": ["Sleeping Trains", "Day Trains", "Buses", "Sea Cruise"],
-    "correct": 1
-  },
-  {
-    "question": "Transport provided between two places, for example between an airport and hotel or between a train station and hotel and vice versa.",
-    "options": ["Sightseeing", "Transfer (Meet & Assist)", "Lunch-Out", "Accommodation"],
-    "correct": 1
-  },
-  {
-    "question": "Lodging, food, and services or traveling space and related services, used to refer to buildings or rooms where people live or stay.",
-    "options": ["Accommodation", "Transportation", "Dinner Show", "Resort"],
-    "correct": 0
-  },
-  {
-    "question": "A place that has rooms where people can stay especially when they are traveling, providing food, lodging, and other services for paying guests.",
-    "options": ["Hostels", "Motels", "Hotel", "Resort"],
-    "correct": 2
-  },
-  {
-    "question": "A place where tourists frequently or generally go for relaxation or pleasure, especially one providing rest and recreation facilities for vacationers.",
-    "options": ["Hotel", "Hostels", "Motels", "Resort"],
-    "correct": 3
-  },
-  {
-    "question": "A type of budget-friendly lodging designed primarily for travelers, typically located along highways and major roads, offering easy access to parking with rooms opening directly to the outside.",
-    "options": ["Motels", "Hotel", "Hostels", "Resort"],
-    "correct": 0
-  },
-  {
-    "question": "Popular among budget travelers, offering dormitory-style rooms and shared facilities, making them a social option.",
-    "options": ["Hotel", "Hostels", "Motels", "Resort"],
-    "correct": 1
-  },
-  {
-    "question": "A vehicle to travel at a moderate and efficient speed, with types including Nile Cruises or Sea Cruises.",
-    "options": ["Cruise", "Hotel", "Buses", "Sleeping Trains"],
-    "correct": 0
-  },
-  {
-    "question": "A Nile Cruise type that lasts from 3 to 4 nights between Luxor and Aswan.",
-    "options": ["Long Cruise", "Super Long Cruise", "Classical Cruise", "Lake Cruise"],
-    "correct": 2
-  },
-  {
-    "question": "A Nile Cruise type that lasts from 6 to 7 nights between Luxor and Aswan.",
-    "options": ["Classical Cruise", "Long Cruise", "Super Long Cruise", "Restaurant Cruise"],
-    "correct": 1
-  },
-  {
-    "question": "A Nile Cruise type that lasts from 12 to 13 nights between Cairo and Aswan.",
-    "options": ["Lake Cruise", "Classical Cruise", "Super Long Cruise", "Long Cruise"],
-    "correct": 2
-  },
-  {
-    "question": "A Nile Cruise type that lasts for 4 nights, such as the Lake Nasser Cruise.",
-    "options": ["Lake Cruise", "Restaurant Cruise", "Classical Cruise", "Long Cruise"],
-    "correct": 0
-  },
-  {
-    "question": "A Nile cruise usually located in Cairo for lunch or dinner with entertainment, lasting 2 hours per tour.",
-    "options": ["Lake Cruise", "Restaurant Cruise", "Classical Cruise", "Long Cruise"],
-    "correct": 1
-  },
-  {
-    "question": "Famous or interesting sights of a place where tourists visit, involving landmarks, historical sites, natural wonders, museums, and galleries.",
-    "options": ["Sightseeing", "Lunch-Out", "Dinner Show", "Transfer (Meet & Assist)"],
-    "correct": 0
-  },
-  {
-    "question": "The act of dining at a restaurant, café, or other food establishment away from one's accommodation during travel, offering a break from the usual routine.",
-    "options": ["Dinner Show", "Sightseeing", "Lunch-Out", "Transfer (Meet & Assist)"],
-    "correct": 2
-  },
-  {
-    "question": "A dining experience that combines a meal with a live entertainment performance, such as music, dance, theater, or comedy.",
-    "options": ["Lunch-Out", "Sightseeing", "Accommodation", "Dinner Show"],
-    "correct": 3
-  },
-  {
-    "question": "The basic component of an itinerary that includes traveling by road, sea, railway, and air.",
-    "options": ["Transportation", "Accommodation", "Sightseeing", "Transfer (Meet & Assist)"],
-    "correct": 0
-  },
-  {
-    "question": "Check-in and check-out procedures for accommodation facilities are usually established precisely at what time?",
-    "options": ["10:00", "12:00", "14:00", "16:00"],
-    "correct": 1
-  },
-  {
-    "question": "A type of transportation involving large passenger ships equipped and staffed for leisure travel and vacationing.",
-    "options": ["Sea Cruise", "Buses", "Day Trains", "International Flight"],
-    "correct": 0
-  },
-  {
-    "question": "A form of travel attraction that involves City Tours, Scenic Drives, Architecture Tours, Wildlife Viewing, and Culinary Tours.",
-    "options": ["Sightseeing", "Lunch-Out", "Dinner Show", "Transfer (Meet & Assist)"],
-    "correct": 0
-  },
-  {
-    "question": "An activity defined as stepping out of one's usual place like home, office, or hotel to have food elsewhere, exploring local cuisine from street food to formal dining.",
-    "options": ["Lunch-Out", "Dinner Show", "Accommodation", "Sightseeing"],
-    "correct": 0
-  },
-  {
-    "question": "A tourism experience designed to provide guests with a multi-sensory experience combining a restaurant meal with live concert music or performance during a break in the meal.",
-    "options": ["Dinner Show", "Lunch-Out", "Sea Cruise", "Transfer (Meet & Assist)"],
-    "correct": 0
-  },
-  {
-    "question": "A category of train travel utilized typically when tourists travel for long distances exceeding 5 hours, which includes a bed and a meal.",
-    "options": ["Sleeping Trains", "Day Trains", "Buses", "Domestic Flight"],
-    "correct": 0
-  },
-  {
-    "question": "A lodging option that offers dormitory-style rooms and shared facilities, making it highly popular and social among budget travelers.",
-    "options": ["Hostels", "Motels", "Hotel", "Resort"],
-    "correct": 0
-  },
-  {
-    "question": "The overarching term used to refer to buildings or rooms where people live or stay, encompassing lodging, food, and services.",
-    "options": ["Accommodation", "Transportation", "Sightseeing", "Transfer (Meet & Assist)"],
-    "correct": 0
-  }
                     ],
                 },
                 {
@@ -258,471 +18,52 @@ const platformData = {
                     "title": "المحاضرة 2",
                     "pdfUrl": "https://drive.google.com/file/d/1ibiGiOszAUVJrDoZZSXF_wn_oc8jG-y9/view?usp=drive_link",
                     "vocabulary": [
-
-                    ],
-                    // "importantPoints": [
-                    // ],
-                    "flashcards": [
-                        {
-                            "term": "BB",
-                            "definition": "Bed and Breakfast: A type of lodging that offers overnight accommodation and breakfast, often in a private home or a small, charming establishment."
-                        },
-                        {
-                            "term": "HB",
-                            "definition": "Half Board (Bed + Breakfast + Lunch or Dinner): A meal plan offered by hotels and resorts that includes breakfast and one additional meal, typically dinner, though sometimes it can be lunch."
-                        },
-                        {
-                            "term": "FB",
-                            "definition": "Full Board (Bed + Breakfast + Lunch + Dinner): A meal plan offered by hotels and resorts that includes all three main meals of the day."
-                        },
-                        {
-                            "term": "HD",
-                            "definition": "Half Day = 4 Hours: Typically refers to a tour, excursion, or activity that lasts about 4 hours, generally covering either the morning or the afternoon."
-                        },
-                        {
-                            "term": "FD",
-                            "definition": "Full Day = 8 Hours = Over Day: Refers to a tour, excursion, or activity that lasts a full day typically around 8 hours, providing an in-depth experience covering multiple sites."
-                        },
-                        {
-                            "term": "PAX",
-                            "definition": "Passenger: A common term used to refer to the number of persons or passengers in a booking, tour, or reservation."
-                        },
-                        {
-                            "term": "SGL Room",
-                            "definition": "Single Room: A room intended for one person, commonly offered in hotels, hostels, and accommodations worldwide."
-                        },
-                        {
-                            "term": "DBL Room",
-                            "definition": "Double Room: One large bed (double, queen, or king), suitable for two people to share."
-                        },
-                        {
-                            "term": "Twin Room",
-                            "definition": "A room with 2 single beds: Designed for two people, featuring two separate single beds."
-                        },
-                        {
-                            "term": "TPL Room",
-                            "definition": "Triple Room: A hotel room that accommodates three people; it is a Double Room with an extra bed."
-                        },
-                        {
-                            "term": "King Room",
-                            "definition": "A room with one king-size bed (typically 76 inches wide and 80 inches long / approximately 193 cm by 203 cm)."
-                        },
-                        {
-                            "term": "Adjoining Rooms",
-                            "definition": "Two or more hotel rooms that are located next to each other, often with a shared wall but without a connecting door."
-                        },
-                        {
-                            "term": "Connecting Rooms",
-                            "definition": "Two or more hotel rooms that are directly linked by a door within the same space, allowing guests to move freely between rooms without going into the hallway."
-                        }
                     ],
                     "quiz": [
-                         {"question": "It is a type of lodging that offers overnight accommodation and breakfast, often in a private home or a small, charming establishment.","options": ["Full Board ", "Lunch", "Half Board", "Bed and Breakfast"],"correct": 3},
-                         {"question": "Are popular for several reasons: Personalized Experience, Unique Accommodations, Local Cuisine, and Community Feel.","options": ["FD", "BB", "FB", "HD"],"correct": 1},
-                         {"question": "Half Board","options": ["HB", "HD", "FB ", "FD"],"correct": 0},
-                         {"question": ".... is a meal plan offered by hotels and resorts that includes breakfast and one additional meal, typically dinner, though sometimes it can be lunch","options": ["FB", "Half Board", "PAX", "Bed and Breakfast"],"correct": 1},
-                         {"question": ".... is popular among travelers who want a mix of planned meals and free time for exploring local cuisine or casual dining options","options": ["Full Board", "Half Board", "Bed and Breakfast", "PAX"],"correct": 1},
-                         {"question": ".....  is a meal plan offered by hotels and resorts that includes all three main meals of the day: breakfast, lunch, and dinner.","options": ["Full Board", "Half Board", "Bed and Breakfast", "PAX"],"correct": 0},
-                         {"question": "This option is convenient for travelers who prefer having all meals covered at their accommodation, reducing the need to find restaurants for each meal","options": ["Over Day", "Full Day", "Full Board", "Half Day"],"correct": 2},
-                         {"question": ".... is popular among travelers who plan to stay mostly at their accommodation, such as families, all-inclusive resort guests, or those visiting remote areas where dining options are limited.","options": ["One Board", "Half Board", "Bed and Breakfast", "Full Board"],"correct": 3},
-                         {"question": "....  typically refers to a tour, excursion, or activity that lasts about 4 hours, generally covering either the morning or the afternoon","options": ["HB", "FB", "Half Day", "Full Day"],"correct": 2},
-                         {"question": "This duration provides enough time for travelers to experience a destination or activity without taking up the entire day, allowing for flexibility to enjoy other experiences or relax","options": ["HB", "FB", "Half Day", "Full Day"],"correct": 2},
-                         {"question": "..... refers to a tour, excursion, or activity that lasts a full day typically around 8 hours.","options": ["LB", "HT", "Full Day", "HD"],"correct": 2},
-                         {"question": "This type of tour provides an in-depth experience, often covering multiple sites or activities and giving travelers a comprehensive look at a destination or attraction","options": ["LB", "HT", "FD", "HD"],"correct": 2},
-                         {"question": "....  is a common term used to refer to the number of persons or passengers in a booking, tour, or reservation.","options": ["PAX", "FAX", "GUEST", "TRAVELER"],"correct": 0},
-                         {"question": "... refers to a room intended for one person.","options": ["DBL Room", "SGL Room", "TPL Room", "QNL Room"],"correct": 1},
-                         {"question": "This room type is commonly offered in hotels, hostels, and accommodations worldwide, catering specifically to solo travelers","options": ["DBL Room", "Queen Room", "QNL Room", "SGL Room"],"correct": 3},
-                         {"question": "..... One large bed (double, queen, or king), suitable for two people to share.","options": ["King Room", "Double Room", "TPL", "Twin"],"correct": 1},
-                         {"question": "A room with 2 single beds","options": ["King Room", "Double Room", "TPL", "Twin Room"],"correct": 3},
-                         {"question": "A .... is a hotel or accommodation room designed for two people, featuring two separate single beds.","options": ["King Room", "Double Room", "Twin Room", "TPL Room"],"correct": 2},
-                         {"question": "..... are ideal for guests who prefer separate beds while sharing the same room, making them a practical choice for business travelers, friends, or family members traveling together","options": ["King Room", "Double Room", "Twin Room", "TPL Room"],"correct": 2},
-                         {"question": "A ..... stands for a Triple Room, a hotel room that accommodates three people.","options": ["TPL Room", "DBL Room", "SGL Room", "QNL Room"],"correct": 0},
-                         {"question": "..... are a convenient option for small groups, families, or friends traveling together who wish to share the same room while having separate beds","options": ["Twin rooms", "Double rooms", "King rooms", "Triple rooms"],"correct": 3},
-                         {"question": "A room with one king size bed","options": ["Extra Room", "King Room", "DBL Room", "Twin Room"],"correct": 1},
-                         {"question": "A .... refers to a hotel or accommodation room featuring a king-sized bed, which is typically 76 inches wide and 80 inches long (approximately 193 cm by 203 cm).","options": ["DBL Room", "Queen Room", "QNL Room", "King Room"],"correct": 3},
-                         {"question": "...... refer to two or more hotel rooms that are located next to each other, often with a shared wall but without a connecting door","options": ["TPL Room", "King rooms", "Adjoining Rooms", "Connection Rooms"],"correct": 2},
-                         {"question": "..... refer to two or more hotel rooms that are directly linked by a door within the same space, allowing guests to move freely between the rooms without having to go into the hallway","options": ["Connecting Rooms", "Adjoining Rooms", "King Room ", "QNL Room"],"correct": 0},
-                        //  {"question": "","options": [" ", "", " ", ""],"correct": 1},
-                        //  {"question": "","options": [" ", "", " ", ""],"correct": 1},
-                        //  {"question": "","options": [" ", "", " ", ""],"correct": 1},
-                        //  {"question": "","options": [" ", "", " ", ""],"correct": 1},
-                        //  {"question": "","options": [" ", "", " ", ""],"correct": 1},
-                        //  {"question": "","options": [" ", "", " ", ""],"correct": 1},
-                         
-                         
+        
                     ]
                 },
                 {
                     "id": 3,
                     "title": "المحاضرة 3",
-                    "content": "في هذه المحاضرة سنتناول موضوع \"الحروف والأصوات\" ضمن قسم \"أساسيات اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                    "pdfUrl": "https://drive.google.com/file/d/1cRKMsuDRPDtaHZYVL-jxGdcFV9Qdaoi7/view?usp=drive_link",
-                    "vocabulary": [
-
-                    ],
-                    // "importantPoints": [
-                    // ],
-                    "flashcards": [
-                        {
-                            "term": "Suite",
-                            "definition": "A room with a living room. It refers to a larger and more luxurious type of hotel room that typically consists of multiple rooms or a designated living area in addition to the bedroom"
-                        },
-                        {
-                            "term": "SS",
-                            "definition": "Supplement for Single (Single Supplement): An additional fee charged to solo travelers who occupy a room that is typically designed for double occupancy, such as a double or twin room"
-                        },
-                        {
-                            "term": "OTA",
-                            "definition": "Online Travel Agency: A platform for booking travel services online"
-                        },
-                        {
-                            "term": "LCC",
-                            "definition": "Low-Cost Carrier: An airline that offers low fares with fewer amenities"
-                        },
-                        {
-                            "term": "MICE",
-                            "definition": "Meetings, Incentives, Conferences, and Exhibitions: Refers to the tourism segment related to business travel"
-                        },
-                        {
-                            "term": "NYC",
-                            "definition": "New York City, USA"
-                        },
-                        {
-                            "term": "LAX",
-                            "definition": "Los Angeles, USA"
-                        },
-                        {
-                            "term": "LON",
-                            "definition": "London, UK"
-                        },
-                        {
-                            "term": "PAR",
-                            "definition": "Paris, France"
-                        },
-                        {
-                            "term": "ROM",
-                            "definition": "Rome, Italy"
-                        },
-                        {
-                            "term": "BER",
-                            "definition": "Berlin, Germany"
-                        },
-                        {
-                            "term": "BKK",
-                            "definition": "Bangkok, Thailand"
-                        },
-                        {
-                            "term": "SYD",
-                            "definition": "Sydney, Australia"
-                        },
-                        {
-                            "term": "HKG",
-                            "definition": "Hong Kong, China"
-                        },
-                        {
-                            "term": "SIN",
-                            "definition": "Singapore, Singapore"
-                        },
-                        {
-                            "term": "DUB",
-                            "definition": "Dublin, Ireland"
-                        },
-                        {
-                            "term": "DEL",
-                            "definition": "New Delhi, India"
-                        },
-                        {
-                            "term": "IST",
-                            "definition": "Istanbul, Turkey"
-                        },
-                        {
-                            "term": "MEX",
-                            "definition": "Mexico City, Mexico"
-                        },
-                        {
-                            "term": "SAO",
-                            "definition": "São Paulo, Brazil"
-                        },
-                        {
-                            "term": "KUL",
-                            "definition": "Kuala Lumpur, Malaysia"
-                        },
-                        {
-                            "term": "ZRH",
-                            "definition": "Zurich, Switzerland"
-                        },
-                        {
-                            "term": "HRG",
-                            "definition": "Hurghada, Egypt"
-                        },
-                        {
-                            "term": "LXR",
-                            "definition": "Luxor, Egypt"
-                        },
-                        {
-                            "term": "ASW",
-                            "definition": "Aswan, Egypt"
-                        },
-                        {
-                            "term": "CAI",
-                            "definition": "Cairo, Egypt"
-                        },
-                        {
-                            "term": "ALX",
-                            "definition": "Alexandria, Egypt"
-                        },
-                        {
-                            "term": "SSH",
-                            "definition": "Sharm El Sheikh, Egypt"
-                        },
-                        {
-                            "term": "Important Information Needed Before Preparing the Itinerary",
-                            "definition": "Includes: A. Total number of PAX, B. Type of transportation (bus, flight, train, ship, etc.), C. Hotel's classification, D. Meal plan (BB, HB, FB), E. Duration of the itinerary, F. Arrival date (low, high, or shoulder period), G. List of destinations inside the country, H. Sightseeing included in the itinerary."
-                        },
-                        {
-                            "term": "Requirements That Travel Agents Need From Local Agents",
-                            "definition": "Includes: A. High quality and first-class service, B. New and innovation ideas and recommendations, C. Quick answers and solving the problems, D. Providing net price, E. Honesty and implementation of all items as showing in the itinerary, F. Determining all items of the package tours."
-                        },
-                        {
-                            "term": "Requirements That Local Agents Need From Travel Agents",
-                            "definition": "Includes: A. Some details such as no. of Pax, date, and time of arrival, B. Accommodation: Especial information about lodging such as no. of rooms, types of rooms, etc., C. Meals: No. of meals, D. Sightseeing: When tourists need to visit special attractions, E. Special needs: Special requests for some cases of tourists, F. Any other information which is necessary."
-                        }
-                    ],
+                    "vocabulary": [],
                     "quiz": [
-                        {
-                            "question": "What does the abbreviation `OTA` stand for in the context of travel agencies?",
-                            "options": ["Overseas Tour Association", "Online Travel Agency", "Operational Travel Agent", "Official Tourism Authority"],
-                            "correct": 1
-                        },
-                        {
-                            "question": "In hotel accommodations, what is a Single Supplement (`SS`) fee charged for?",
-                            "options": ["Solo travelers who occupy a room designed for double occupancy", "Travelers who book a suite instead of a standard room", "An extra charge for single-bed dormitory style hostels", "A service fee for booking online travel tickets"],
-                            "correct": 0
-                        },
-                        {
-                            "question": "What does the tourism business acronym `MICE` stand for?",
-                            "options": ["Management, Incentives, Conferences, and Exhibitions", "Meetings, International Conventions, and Events", "Marketing, Information, Conferences, and Entertaining", "Meetings, Incentives, Conferences, and Exhibitions"],
-                            "correct": 3
-                        },
-                        {
-                            "question": "Which of the following correctly pairs an international city abbreviation with its actual city?",
-                            "options": ["`PAR` stands for Prague, Austria", "`BER` stands for Bern, Switzerland", "`ZRH` stands for Zurich, Switzerland", "`SYD` stands for Stockholm, Sweden"],
-                            "correct": 2
-                        },
-                        {
-                            "question": "What city does the abbreviation `SSH` represent in Egypt's tourism map?",
-                            "options": ["Sohag", "Sharm El Sheikh", "Siwa", "Suez"],
-                            "correct": 1
-                        },
-                        {
-                            "question": "Which of the following is considered essential information needed *before* preparing a travel itinerary?",
-                            "options": ["The brand of luggage passengers carry", "Total number of PAX and meal plan (`BB`, `HB`, `FB`)", "The flight seating assignments of each individual passenger", "The personal passport numbers of all passengers"],
-                            "correct": 1
-                        },
-                        {
-                            "question": "What is a primary requirement that travel agents expect from local ground agents?",
-                            "options": ["Handling all passport and visa issuing services directly", "Offering free personal travel insurance for every passenger", "Providing net prices and high-quality first-class service", "Managing airplane maintenance and flight schedules"],
-                            "correct": 2
-                        },
-                        {
-                            "question": "When a local agent requests information from a travel agent, which of the following is a key requirement?",
-                            "options": ["The exact bank account details of the traveling clients", "Specific lodging details including the number and types of rooms", "Detailed flight crew member profiles", "Hotel interior architectural blueprints"],
-                            "correct": 1
-                        },
-                        {
-                            "question": "What does a hotel `Suite` specifically offer compared to a standard hotel room?",
-                            "options": ["Multiple rooms or a designated living area in addition to the bedroom", "Free airline ticket upgrades", "Access to an exclusive airport lounge", "Complimentary private car rental"],
-                            "correct": 0
-                        },
-                        {
-                            "question": "Which of the following correctly identifies an Egyptian city and its abbreviation code?",
-                            "options": ["`CAI` stands for Cairo", "`ASW` stands for Alexandria", "`HRG` stands for Helwan", "`LX` stands for Luxor"],
-                            "correct": 0
-                        },
-                        {
-                            "question": "What does the abbreviation `LCC` stand for in the travel and airline industry?",
-                            "options": ["Luxury Cruise Company", "Local City Code", "Licensed Cargo Charter", "Low-Cost Carrier"],
-                            "correct": 3
-                        },
-                        {
-                            "question": "Which international city is represented by the code `BKK`?",
-                            "options": ["Bangkok, Thailand", "Berlin, Germany", "Brussels, Belgium", "Barcelona, Spain"],
-                            "correct": 0
-                        },
-                        {
-                            "question": "Which of the following Egyptian cities matches the airport or location code `HRG`?",
-                            "options": ["Luxor", "Aswan", "Hurghada", "Cairo"],
-                            "correct": 2
-                        },
-                        {
-                            "question": "When analyzing the arrival period for preparing an itinerary, which of the following seasons are explicitly considered?",
-                            "options": ["Rainy, dry, or windy season", "Low, high, or shoulder period", "Spring, summer, or autumn season", "Weekday, weekend, or holiday period"],
-                            "correct": 1
-                        },
-                        {
-                            "question": "What is one of the key requirements that travel agents expect from local ground agents regarding pricing?",
-                            "options": ["Providing retail brochure prices", "Providing net prices", "Setting commission-free rates", "Charging hourly consulting fees"],
-                            "correct": 1
-                        },
-                        {
-                            "question": "Which of the following correctly pairs a world city code with its country?",
-                            "options": ["`NYC` stands for New Castle, UK", "`IST` stands for Istanbul, Turkey", "`MEX` stands for Madrid, Spain", "`DEL` stands for Dubai, UAE"],
-                            "correct": 1
-                        },
-                        {
-                            "question": "Which detail is *not* part of the essential information needed before preparing a travel itinerary?",
-                            "options": ["Total number of PAX", "Hotel's classification", "The personal passport numbers of all passengers", "Duration of the itinerary"],
-                            "correct": 2
-                        },
-                        {
-                            "question": "What is expected from local agents when travel agents submit an itinerary plan?",
-                            "options": ["Rewriting the entire tour schedule from scratch", "Implementation of all items as shown in the itinerary", "Modifying all hotel bookings to cheaper alternatives", "Canceling sightseeing visits to save time"],
-                            "correct": 1
-                        },
-                        {
-                            "question": "When local agents request information from travel agents, what specific lodging details must be provided?",
-                            "options": ["The color schemes of the hotel rooms", "Number of rooms and types of rooms", "The exact names of the hotel housekeeping staff", "The restaurant menus for breakfast"],
-                            "correct": 1
-                        },
-                        {
-                            "question": "Which of the following abbreviations represents a major global business travel and event sector?",
-                            "options": ["`OTA`", "`LCC`", "`MICE`", "`SS`"],
-                            "correct": 2
-                        }                    ],
+                         ],
                 },
-                // {
-                //     "id": 4,
-                //     "title": "المحاضرة 4: الأرقام والتواريخ",
-                //     // "content": "في هذه المحاضرة سنتناول موضوع \"الحروف والأصوات\" ضمن قسم \"أساسيات اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section1_lecture1/view",
-                //     "vocabulary": [
-
-                //     ],
-                //     "importantPoints": [
-                //     ],
-                //     // "flashcards": [
-                //     //     {
-                //     //         "term": "Deadline",
-                //     //         "definition": "مصطلح متعلق بموضوع الحروف والأصوات يُستخدم في السياقات التعليمية والعملية.",
-                //     //         "translation": "الموعد النهائي",
-                //     //         "example": "The deadline for the report is Friday."
-                //     //     },
-                //     //     {
-                //     //         "term": "Efficient",
-                //     //         "definition": "مفهوم أساسي ضمن درس الحروف والأصوات يساعد على الفهم العميق للموضوع.",
-                //     //         "translation": "فعّال / كفؤ",
-                //     //         "example": "This method is more efficient."
-                //     //     }
-                //     // ],
-                //     "quiz": [
-                //     ]
-                // },
-                // {
-                //     "id": 5,
-                //     "title": "المحاضرة 5: الأسئلة الأساسية",
-                //     // "content": "في هذه المحاضرة سنتناول موضوع \"الحروف والأصوات\" ضمن قسم \"أساسيات اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section1_lecture1/view",
-                //     "vocabulary": [
-
-                //     ],
-                //     "importantPoints": [
-                //     ],
-                //     // "flashcards": [
-                //     //     {
-                //     //         "term": "Deadline",
-                //     //         "definition": "مصطلح متعلق بموضوع الحروف والأصوات يُستخدم في السياقات التعليمية والعملية.",
-                //     //         "translation": "الموعد النهائي",
-                //     //         "example": "The deadline for the report is Friday."
-                //     //     },
-                //     //     {
-                //     //         "term": "Efficient",
-                //     //         "definition": "مفهوم أساسي ضمن درس الحروف والأصوات يساعد على الفهم العميق للموضوع.",
-                //     //         "translation": "فعّال / كفؤ",
-                //     //         "example": "This method is more efficient."
-                //     //     }
-                //     // ],
-                //     "quiz": [
-                //     ]
-                // },
-                // {
-                //     "id": 6,
-                //     "title": "المحاضرة 6: صيغ الإثبات والنفي",
-                //     // "content": "في هذه المحاضرة سنتناول موضوع \"الحروف والأصوات\" ضمن قسم \"أساسيات اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section1_lecture1/view",
-                //     "vocabulary": [
-
-                //     ],
-                //     "importantPoints": [
-                //     ],
-                //     // "flashcards": [
-                //     //     {
-                //     //         "term": "Deadline",
-                //     //         "definition": "مصطلح متعلق بموضوع الحروف والأصوات يُستخدم في السياقات التعليمية والعملية.",
-                //     //         "translation": "الموعد النهائي",
-                //     //         "example": "The deadline for the report is Friday."
-                //     //     },
-                //     //     {
-                //     //         "term": "Efficient",
-                //     //         "definition": "مفهوم أساسي ضمن درس الحروف والأصوات يساعد على الفهم العميق للموضوع.",
-                //     //         "translation": "فعّال / كفؤ",
-                //     //         "example": "This method is more efficient."
-                //     //     }
-                //     // ],
-                //     "quiz": [
-                //     ]
-                // },
-                // {
-                //     "id": 7,
-                //     "title": "المحاضرة 7: أدوات التعريف والتنكير",
-                //     // "content": "في هذه المحاضرة سنتناول موضوع \"الحروف والأصوات\" ضمن قسم \"أساسيات اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section1_lecture1/view",
-                //     "vocabulary": [
-
-                //     ],
-                //     "importantPoints": [
-                //     ],
-                //     // "flashcards": [
-                //     //     {
-                //     //         "term": "Deadline",
-                //     //         "definition": "مصطلح متعلق بموضوع الحروف والأصوات يُستخدم في السياقات التعليمية والعملية.",
-                //     //         "translation": "الموعد النهائي",
-                //     //         "example": "The deadline for the report is Friday."
-                //     //     },
-                //     //     {
-                //     //         "term": "Efficient",
-                //     //         "definition": "مفهوم أساسي ضمن درس الحروف والأصوات يساعد على الفهم العميق للموضوع.",
-                //     //         "translation": "فعّال / كفؤ",
-                //     //         "example": "This method is more efficient."
-                //     //     }
-                //     // ],
-                //     "quiz": [
-                //     ]
-                // },
-                // {
-                //     "id": 8,
-                //     "title": "المحاضرة 8: مراجعة شاملة",
-                //     // "content": "في هذه المحاضرة سنتناول موضوع \"مراجعة شاملة\" ضمن قسم \"أساسيات اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section1_lecture8/view",
-                //     "vocabulary": [
-                //     ],
-                //     "importantPoints": [],
-                //     // "flashcards": [
-                //     //     {
-                //     //         "term": "Environment",
-                //     //         "definition": "مصطلح متعلق بموضوع مراجعة شاملة يُستخدم في السياقات التعليمية والعملية.",
-                //     //         "translation": "البيئة",
-                //     //         "example": "Protecting the environment is important."
-                //     //     },
-                //     //     {
-                //     //         "term": "Opportunity",
-                //     //         "definition": "مفهوم أساسي ضمن درس مراجعة شاملة يساعد على الفهم العميق للموضوع.",
-                //     //         "translation": "فرصة",
-                //     //         "example": "This job is a great opportunity for growth."
-                //     //     }
-                //     // ],
-                //     "quiz": [
-                //     ]
-                // }
+                {
+                    "id": 4,
+                    "title": "المحاضرة 4: الأرقام والتواريخ",
+                    "vocabulary": [],
+                    "quiz": [
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "المحاضرة 5: الأسئلة الأساسية",
+                    "vocabulary": [],
+                    "quiz": [
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "المحاضرة 6: صيغ الإثبات والنفي",
+                    "vocabulary": [],
+                    "quiz": [
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "المحاضرة 7: أدوات التعريف والتنكير",
+                    "vocabulary": [],
+                    "quiz": [
+                    ]
+                },
+                {
+                    "id": 8,
+                    "vocabulary": [],
+                    "quiz": [
+                    ]
+                }
             ]
         },
         {
@@ -731,89 +72,213 @@ const platformData = {
             "title": "التخطيط السياحي",
             "icon": "fa-solid fa-route",
             "lectures": [
-                // {
-                //     "id": 1,
-                //     "title": "المحاضرة 1: التحية والتعارف",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"التحية والتعارف\" ضمن قسم \"المحادثة اليومية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section2_lecture1/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Opportunity",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         },
-                //         {
-                //             "word": "Responsible",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         },
-                //         {
-                //             "word": "Communicate",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "راجع المحتوى بشكل دوري لتثبيت المعلومة.",
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Opportunity",
-                //             "definition": "مصطلح متعلق بموضوع التحية والتعارف يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         },
-                //         {
-                //             "term": "Responsible",
-                //             "definition": "مفهوم أساسي ضمن درس التحية والتعارف يساعد على الفهم العميق للموضوع.",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'التحية والتعارف' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'التحية والتعارف'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'التحية والتعارف'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'التحية والتعارف'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
+                {
+                    "id": 1,
+                    "title": "المحاضرة 1: التحية والتعارف",
+                    "content": "في هذه المحاضرة سنتناول موضوع \"التحية والتعارف\" ضمن قسم \"المحادثة اليومية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
+                    "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section2_lecture1/view",
+                    "vocabulary": [
+                        {
+                            "word": "Opportunity",
+                            "translation": "فرصة",
+                            "example": "This job is a great opportunity for growth."
+                        },
+                        {
+                            "word": "Responsible",
+                            "translation": "مسؤول",
+                            "example": "He is responsible for the whole project."
+                        },
+                        {
+                            "word": "Communicate",
+                            "translation": "يتواصل",
+                            "example": "It's important to communicate clearly."
+                        }
+                    ],
+                    "importantPoints": [
+                        "راجع المحتوى بشكل دوري لتثبيت المعلومة.",
+                        "لا تخف من ارتكاب الأخطاء أثناء التدرب."
+                    ],
+                    "flashcards": [
+                        {
+                            "term": "Opportunity",
+                            "definition": "مصطلح متعلق بموضوع التحية والتعارف يُستخدم في السياقات التعليمية والعملية.",
+                            "translation": "فرصة",
+                            "example": "This job is a great opportunity for growth."
+                        },
+                        {
+                            "term": "Responsible",
+                            "definition": "مفهوم أساسي ضمن درس التحية والتعارف يساعد على الفهم العميق للموضوع.",
+                            "translation": "مسؤول",
+                            "example": "He is responsible for the whole project."
+                        }
+                    ],
+                    "quiz": [
+                     {"question": "Focuses on detailed planning for a specific tourism site","options": ["International Level", "National Level", "Regional Level", "Local / Site Level"],"correct": 3}, 
+                     {"question": "Formulated at the sovereign nation state level by ministries of tourism and national planning authorities.","options": ["International Level", "National Level", "Regional Level", "Local / Site Level"],"correct": 1},  
+                     {"question": "Defining the state's general tourism policy, legislation, budget allocation, macro-marketing strategies, and major infrastructure projects (airports, highways)","options": ["International Level", "National Level", "Regional Level", "Local / Site Level"],"correct": 1},  
+                     {"question": "Facilitating travel procedures and visas, global environmental protection, cross-border regional tourism","options": ["International Level", "National Level", "Regional Level", "Local / Site Level"],"correct": 0},  
+                     {"question": "Restore and document historical landmarks and museums and ensure their preservation.","options": ["Social Objectives", "Environmental Objectives", "Economic Objectives", "Cultural Objectives"],"correct": 3},  
+                     {"question": "Attract greater levels of domestic and foreign investment to the tourism sector","options": ["Social Objectives", "Environmental Objectives", "Economic Objectives", "Cultural Objectives"],"correct": 2},  
+                     {"question": "Rehabilitate and sustainably maintain archaeological and historical sites.","options": ["Social Objectives", "Environmental Objectives", "Economic Objectives", "Cultural Objectives"],"correct": 1},  
+                     {"question": "Emphasis on Sustainable Tourism Development","options": ["Stage four", "Stage three", "Stage two", "Stage one"],"correct": 0},  
+                     {"question": "Emergence of environmental assessment concepts and regional destination planning","options": ["Stage Three", "Stage Two", "Stage One", "Stage Four"],"correct": 0}, 
+                     {"question": "Shifted from physical/urban planning to comprehensive tourism planning that addresses environmental and social impacts","options": ["Stage Four", "Stage One", "Stage Two", "Stage Three"],"correct": 3}, 
+                     {"question": "Nations recognized the economic significance of tourism as a source of foreign exchange and job creation.","options": ["Stage Four", "Stage Two", "Stage Three", "Stage One"],"correct": 1}, 
+                     {"question": "Witnessed a travel boom driven by advancements in transportation (civil aviation and automobiles)","options": ["Stage One", "Stage Four", "Stage Three", "Stage two"],"correct": 3}, 
+                     {"question": "Planning was confined to organizing basic facilities and natural reserves (such as national parks in the United States)","options": ["Stage One", "Stage Two", "Stage Three", "Stage Four"],"correct": 0}, 
+                     
+                     {
+                        "question": "Which term describes a systematic scientific methodology concerned with the optimal utilization of available natural, human, and historical tourism resources within a designated period and geographic area?",
+                        "options": [
+                        "Urban Expansion",
+                        "Tourism Planning",
+                        "Economic Inflation",
+                        "Resource Depletion"
+                        ],
+                        "correct": 1
+                        },
+                        {
+                        "question": "According to the UN Tourism (UNWTO) definition, tourism planning aims to ensure resource preservation, improve local quality of life, and achieve which of the following?",
+                        "options": [
+                        "Restrict cultural exchanges between communities.",
+                        "Provide a superior visitor experience.",
+                        "Eliminate foreign investments completely.",
+                        "Focus solely on short-term financial gains."
+                        ],
+                        "correct": 1
+                        },
+                        {
+                        "question": "Which of the following is explicitly listed as a primary reason for the importance of tourism planning?",
+                        "options": [
+                        "Preventing Haphazard Growth",
+                        "Encouraging Uncontrolled Development",
+                        "Maximizing Regional Tax Rates",
+                        "Restricting Transportation Networks"
+                        ],
+                        "correct": 0
+                        },
+                        {
+                        "question": "In Stage One (Pre-World War II) of tourism planning, how was tourism activity primarily conducted?",
+                        "options": [
+                        "Through centralized state planning.",
+                        "Through international corporate monopolies.",
+                        "Through individual and spontaneous initiatives.",
+                        "Through automated digital platforms."
+                        ],
+                        "correct": 2
+                        },
+                        {
+                        "question": "What major development drove the travel boom seen during Stage Two (Mid-20th Century / Post-WWII Era)?",
+                        "options": [
+                        "Advancements in civil aviation and automobiles.",
+                        "The invention of virtual reality tourism.",
+                        "Global border closures and restrictions.",
+                        "The adoption of Big Data analytics."
+                        ],
+                        "correct": 0
+                        },
+                        {
+                        "question": "During which historical stage did tourism planning shift from purely 'physical/urban planning' to 'comprehensive tourism planning' addressing environmental and social impacts?",
+                        "options": [
+                        "Stage One (Pre-World War II)",
+                        "Stage Two (Mid-20th Century)",
+                        "Stage Three (1970s and 1980s)",
+                        "Stage Four (1990s to Present)"
+                        ],
+                        "correct": 2
+                        },
+                        {
+                        "question": "Which tools are highlighted as key features of Stage Four (1990s to Present) of tourism planning?",
+                        "options": [
+                        "Steam engines and mechanical telegraphs",
+                        "Manual drafting and paper mapping",
+                        "GIS, Artificial Intelligence, and Big Data",
+                        "Basic civil aviation records"
+                        ],
+                        "correct": 2
+                        },
+                        {
+                        "question": "Which of the following is categorized as an Economic Objective of tourism planning?",
+                        "options": [
+                        "Reducing rural-to-urban migration.",
+                        "Increasing the contribution of tourism to Gross Domestic Product (GDP).",
+                        "Protecting marine coral reefs.",
+                        "Preserving local folklore and heritage."
+                        ],
+                        "correct": 1
+                        },
+                        {
+                        "question": "What type of objective is 'reducing migration from rural and remote areas to major cities'?",
+                        "options": [
+                        "Economic Objective",
+                        "Social Objective",
+                        "Environmental Objective",
+                        "Cultural Objective"
+                        ],
+                        "correct": 1
+                        },
+                        {
+                        "question": "Determining the environmental carrying capacity of tourist destinations belongs to which planning dimension?",
+                        "options": [
+                        "Environmental Objectives",
+                        "Economic Objectives",
+                        "Cultural Objectives",
+                        "Financial Objectives"
+                        ],
+                        "correct": 0
+                        },
+                        {
+                        "question": "Supporting traditional industries and handicrafts to protect them from extinction is classified under which objective category?",
+                        "options": [
+                        "Environmental Objectives",
+                        "Economic Objectives",
+                        "Cultural Objectives",
+                        "Administrative Objectives"
+                        ],
+                        "correct": 2
+                        },
+                        {
+                        "question": "Which level of tourism planning focuses on facilitating travel procedures and visas, global environmental protection, and cross-border regional tourism?",
+                        "options": [
+                        "Local / Site Level",
+                        "Regional Level",
+                        "National Level",
+                        "International Level"
+                        ],
+                        "correct": 3
+                        },
+                        {
+                        "question": "Setting general state tourism policies, national legislation, budget allocations, and major infrastructure projects (such as airports and highways) occurs at which level?",
+                        "options": [
+                        "International Level",
+                        "National Level",
+                        "Regional Level",
+                        "Local / Site Level"
+                        ],
+                        "correct": 1
+                        },
+                        {
+                        "question": "Planning that targets a specific province with distinct characteristics (such as the Red Sea Region or South Sinai Region) to connect products and allocate land use represents which level?",
+                        "options": [
+                        "International Level",
+                        "National Level",
+                        "Regional Level",
+                        "Local / Site Level"
+                        ],
+                        "correct": 2
+                        },
+                        {
+                        "question": "Architectural design, internal circulation routes, spatial distribution of hotels, and setting direct operational standards are main tasks of which planning level?",
+                        "options": [
+                        "International Level",
+                        "National Level",
+                        "Regional Level",
+                        "Local / Site Level"
+                        ],
+                        "correct": 3
+                        }
+                    ]
+                },
                 // {
                 //     "id": 2,
                 //     "title": "المحاضرة 2: التسوق",
@@ -1400,632 +865,57 @@ const platformData = {
                 {
                     "id": 1,
                     "title": "المحاضرة 1",
-                    // "content": "في هذه المحاضرة سنتناول موضوع \"الأزمنة المستمرة\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                    "pdfUrl": "https://drive.google.com/file/d/1UITufd2gk9VNO97YagIalDDuNKc4fE6P/view?usp=drive_link",
-                    "vocabulary": [
-                        {
-                            "word": "Simultaneous",
-                            "translation": "متزامن / في نفس الوقت",
-                            "example": "The two activities happened simultaneously."
-                        },
-                        {
-                            "word": "Examined",
-                            "translation": "فَحَصَ / دَرَسَ / تَمَّ فَحْصُه",
-                            "example": "The data were examined carefully."
-                        },
-                        {
-                            "word": "Efficient",
-                            "translation": "فعّال / كفؤ",
-                            "example": "This method is more efficient."
-                        }
-                    ],
-                    "importantPoints": [
-                        "In many tourism services, the service is produced and consumed at the same time, such as reception services and tour guiding. Therefore, the interaction between the employee and the tourist is an essential part of service quality.",
-                        "A tourism service is not a physical product that can be fully examined before purchase. Therefore, tourists depend on factors such as reputation, reviews, photos, and recommendations when making their purchasing decisions. ",
-                        "Service quality may differ from one employee to another or from one time to another because of differences in experience, training, and operating conditions. Therefore, tourism establishments need standards and procedures that help maintain a stable level of service.",
-                        "Unused tourism capacity cannot be stored and sold later. For example, an unsold hotel room or an empty seat on a tourist trip cannot be stored for future sale.",
-                    ],
-                    "flashcards":[
-                        {
-                            "term": "Quality (General Definition)",
-                            "definition": "The ability of a product or service to meet the specific requirements, needs, and expectations of the customer, regardless of price or luxury."
-                        },
-                        {
-                            "term": "Quality in the Tourism Industry",
-                            "definition": "The ability of a tourism organization to continuously provide products, services, and experiences that meet the needs and expectations of tourists, while maintaining an appropriate level of efficiency, reliability, and safety."
-                        },
-                        {
-                            "term": "Evaluation of Tourism Service Quality",
-                            "definition": "Does not depend only on the opinion of management or employees; it is largely related to the tourist's perception of the service received."
-                        },
-                        {
-                            "term": "Characteristics of Tourism Services",
-                            "definition": "The four main characteristics that make tourism quality management complex: Intangibility, Simultaneous Production and Consumption, Variability, and Perishability."
-                        },
-                        {
-                            "term": "Intangibility",
-                            "definition": "A tourism service is not a physical product that can be fully examined before purchase. Therefore, tourists depend on factors such as reputation, reviews, photos, and recommendations when making their purchasing decisions."
-                        },
-                        {
-                            "term": "Simultaneous Production and Consumption",
-                            "definition": "A characteristic where many tourism services (such as reception and tour guiding) are produced and consumed at the same time, making the interaction between the employee and the tourist an essential part of service quality."
-                        },
-                        {
-                            "term": "Variability",
-                            "definition": "The characteristic where service quality may differ from one employee to another or from one time to another because of differences in experience, training, and operating conditions, requiring established standards and procedures."
-                        },
-                        {
-                            "term": "Perishability",
-                            "definition": "The characteristic where unused tourism capacity cannot be stored and sold later, such as an unsold hotel room or an empty seat on a tourist trip."
-                        },
-                        {
-                            "term": "Importance of Quality in Tourism",
-                            "definition": "A basic element for success that achieves tourist satisfaction, increases competitiveness, improves reputation, increases repeat business, reduces complaints and errors, and helps retain existing customers while attracting new ones."
-                        },
-                        {
-                            "term": "Quality and Tourist Satisfaction Relationship",
-                            "definition": "Evaluated by comparing expectations before receiving the service with actual perception after receiving it. Performance lower than expectations causes dissatisfaction; matching expectations causes satisfaction; exceeding expectations leads to high satisfaction."
-                        },
-                        {
-                            "term": "Competitive Advantage in Tourism",
-                            "definition": "Achieved by providing better value to tourists compared with competitors through service quality, ease of obtaining service, customer care level, and effective problem-solving."
-                        },
-                        {
-                            "term": "Total Quality Management (TQM)",
-                            "definition": "A concept that considers quality a shared responsibility among all employees across all activities and processes within the organization, focusing on customer needs and continuous improvement."
-                        },
-                        {
-                            "term": "Principle: Focusing on Tourists' Needs",
-                            "definition": "The first basic principle of tourism quality, centering all efforts on the needs and expectations of tourists."
-                        },
-                        {
-                            "term": "Principle: Clear Service Standards",
-                            "definition": "The second basic principle of tourism quality, involving a firm commitment to clear service standards and levels."
-                        },
-                        {
-                            "term": "Principle: Error Reduction and Prevention",
-                            "definition": "The third basic principle of tourism quality, focused on reducing errors and working to prevent them before they occur."
-                        },
-                        {
-                            "term": "Principle: Employee Training",
-                            "definition": "The fourth basic principle of tourism quality, dedicated to training employees and developing their skills."
-                        },
-                        {
-                            "term": "Principle: Quick Complaint Response",
-                            "definition": "The fifth basic principle of tourism quality, requiring rapid responses to complaints and problems."
-                        },
-                        {
-                            "term": "Principle: Continuous Improvement",
-                            "definition": "The sixth basic principle of tourism quality, emphasizing the continuous improvement of products and services."
-                        },
-                        {
-                            "term": "Principle: Customer Feedback Utilization",
-                            "definition": "The seventh basic principle of tourism quality, using customer opinions and evaluation results to improve performance."
-                        },
-                        {
-                            "term": "Essence of Quality Systems in Tourism",
-                            "definition": "Quality should not be viewed only as inspection or error detection, but as an integrated system based on meeting tourists' needs and continuously improving all stages of service delivery."
-                        }
-                    ],
+                    "vocabulary": [],
                     "quiz": [
-                        {"question": "A tourism service is not a physical product that can be fully examined before purchase. Therefore, tourists depend on factors such as reputation, reviews, photos, and recommendations when making their purchasing decisions.","options": ["Intangibility","Perishability","Variability","Simultaneous Production and Consumption"],"correct": 0},
-                        {"question": "In many tourism services, the service is produced and consumed at the same time, such as reception services and tour guiding. Therefore, the interaction between the employee and the tourist is an essential part of service quality.","options": ["Variability","Simultaneous Production and Consumption","Intangibility","Perishability"],"correct": 1},
-                        {"question": "Service quality may differ from one employee to another or from one time to another because of differences in experience, training, and operating conditions. Therefore, tourism establishments need standards and procedures that help maintain a stable level of service.","options": ["Perishability","Simultaneous Production and Consumption","Variability","Intangibility"],"correct": 2},
-                        {"question": "Unused tourism capacity cannot be stored and sold later. For example, an unsold hotel room or an empty seat on a tourist trip cannot be stored for future sale.","options": ["Intangibility","Variability","Simultaneous Production and Consumption","Perishability"],"correct": 3},
-                        {"question": "Characteristics of Quality in Tourism Services", "options": ["Variability", "Simultaneous Production and Consumption", "Intangibility", "All of them"], "correct": 3 },
-                        {"question": "The ability of a product or service to meet the specific requirements, needs, and expectations of the customer.", "options": ["Tourism Service Quality", "Quality", "Tourist's Perception", "Tourism Organization Efficiency"], "correct": 1}, 
-                        {"question": "The ability of a tourism organization to continuously provide products, services, and experiences that meet the needs and expectations of tourists, while maintaining an appropriate level of efficiency, reliability, and safety.", "options": ["Tourism Service Quality", "Quality", "Tourist's Perception", "Management Evaluation"], "correct": 0}, 
-                        {"question": "The factor that the evaluation of tourism service quality is largely related to, rather than depending only on the opinion of management or employees.", "options": ["High prices or luxury", "Employee opinion", "Tourist's perception", "Organizational efficiency"], "correct": 2},
-                        {"question": "Appears through providing better value to tourists compared with competitors, whether through service quality, ease of obtaining the service, the level of customer care, or the ability to solve problems quickly and effectively.","options": ["Quality","Tourist Experience","Competitive Advantage","Expectation Comparison"],"correct": 2},
-                        {"question": "A situation where performance is lower than expectations, causing the tourist to usually feel dissatisfied.","options": ["Acceptable Level of Satisfaction","High Satisfaction","Tourist Dissatisfaction","Competitive Advantage"],"correct": 2},
-                        {"question": "An important means of achieving excellence and competitiveness in the modern tourism environment through reliable service, quick response to needs, and consistent performance.","options": ["Tourist Dissatisfaction","Service Expectations","Quality","Customer Perception"],"correct": 2},
-                        {"question": "A tourist's evaluation of service quality is related to the comparison between their expectations before receiving the service and their actual perception of the service after receiving it.", "options": ["Competitive Advantage", "Quality and Tourist Satisfaction", "Quality and Competitive Advantage", "Service Performance"], "correct": 1},
-                        {"question": "A condition where performance exceeds expectations, causing the tourist to feel highly satisfied and become more willing to repeat the experience or recommend it to others.", "options": ["Acceptable Level of Satisfaction", "Service Dissatisfaction", "Quality and Tourist Satisfaction", "High Tourist Satisfaction"], "correct": 3},
-                        {"question": "One of the most important factors influencing the development of a positive tourism experience based on the relationship between service evaluation and performance.", "options": ["Quality", "Price Strategy", "Advertising Campaign", "Tour Guide Experience"], "correct": 0},
-                        {"question": "An important means of achieving excellence and competitiveness in the modern tourism environment where an establishment provides reliable service and maintains consistent performance.", "options": ["Tourist Expectation", "Quality and Competitive Advantage", "Service Cost", "Market Fluctuation"], "correct": 1},
-                        {"question": "Appears through providing better value to tourists compared with competitors, whether through service quality, ease of obtaining the service, or the ability to solve problems quickly and effectively.", "options": ["Quality and Tourist Satisfaction", "Service Quality", "Competitive Advantage", "Customer Care"], "correct": 2},
-                        {"question": "One of the most important factors influencing the development of a positive tourism experience.","options": ["Quality","Competitive Advantage","Customer Care","Performance"],"correct": 0},
                     ]
                 },
                 {
                     "id": 2,
                     "title": "المحاضرة 2",
-                    "content": "في هذه المحاضرة سنتناول موضوع \"أزمنة المستقبل\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                    "pdfUrl": "https://drive.google.com/file/d/19s29IyIP1sIXyRA_89ObmD-8yfUBbavb/view?usp=drive_link",
-                    "vocabulary": [
-                        {
-                            "word": "Inspecting",
-                            "translation": "فحص / تفتيش",
-                            "example": "The manager is inspecting the hotel rooms."
-                        },
-                        {
-                            "word": "Overall",
-                            "translation": "إجمالي / عام / شامل",
-                            "example": "Overall quality is important"
-                        },
-                        {
-                            "word": "Practitioners",
-                            "translation": "الممارسون / المتخصصون",
-                            "example": "Practitioners apply quality standards"
-                        },
-                        {
-                            "word": "As perceived by",
-                            "translation": "كما يُنظر إليه من قِبل / كما يراه",
-                            "example": "Quality is defined as perceived by customers."
-                        },
-                        {
-                            "word": "Compliance",
-                            "translation": "الامتثال / الالتزام",
-                            "example": "Compliance with standards is essential"
-                        },
-                        {
-                            "word": "Procedures",
-                            "translation": "الإجراءات",
-                            "example": "Employees must follow the procedures."
-                        },
-                        {
-                            "word": "Deviations",
-                            "translation": "الانحرافات / المخالفات",
-                            "example": "The inspector identified deviations from the standards."
-                        },
-                        {
-                            "word": "Detecting errors",
-                            "translation": "اكتشاف الأخطاء",
-                            "example": "Detecting errors is an important part of quality control."
-                        }
-                    ],
-                    // "importantPoints": [
-                    //     "مارس المفردات الجديدة في جمل من إنشائك.",
-                    //     "استمع للنطق الصحيح قبل التكرار."
-                    // ],
-                    "flashcards": [
-                        {
-                            "term": "Quality",
-                            "definition": "Quality refers to the extent to which a product or service conforms to specified requirements and standards and its ability to meet customer needs and expectations",
-                        },
-                                                {
-                            "term": "Service Quality",
-                            "definition": "Service quality refers to the level of service performance as perceived by the customer and the extent to which this performance matches their expectations and needs",
-                        },
-                                                {
-                            "term": "Quality Control",
-                            "definition": "Quality control is a set of procedures and activities aimed at monitoring processes, identifying deviations and errors, and ensuring compliance with specified standards",
-                        },
-                                                {
-                            "term": "Quality Assurance",
-                            "definition": "Quality assurance is a set of organized procedures designed to provide confidence that a product or service will be delivered according to the required levels and standards.",
-                        },
-                                                {
-                            "term": "Quality Management",
-                            "definition": "Quality management is a management approach that aims to plan, implement, monitor, and continuously improve quality.",
-                        },
-                                                {
-                            "term": "Continuous Improvement",
-                            "definition": "Continuous improvement is an ongoing process of developing processes and services in order to improve performance, reduce errors, and provide greater value to the customer.",
-                        },
-                    ],
+                    "vocabulary": [],
                     "quiz": [
-                        {"question": "The extent to which a product or service conforms to specified requirements and standards and its ability to meet customer needs and expectations.","options": ["Quality Control", "Quality", "Service Quality", "Quality Assurance"],"correct": 1},
-                        {"question": "The level of service performance as perceived by the customer and the extent to which this performance matches their expectations and needs.","options": ["Quality Management", "Continuous Improvement", "Service Quality", "Quality"],"correct": 2},
-                        {"question": "A set of procedures and activities aimed at monitoring processes, identifying deviations and errors, and ensuring compliance with specified standards.","options": ["Quality Control", "Quality Assurance", "Inspection", "Total Quality Management"],"correct": 0},
-                        {"question": "A set of organized procedures designed to provide confidence that a product or service will be delivered according to the required levels and standards.","options": ["Quality Control", "Quality Assurance", "Quality Management", "Continuous Improvement"],"correct": 1},
-                        {"question": "A management approach that aims to plan, implement, monitor, and continuously improve quality.","options": ["Quality Assurance", "Quality Management", "Service Quality", "Quality"],"correct": 1},
-                        {"question": "An ongoing process of developing processes and services in order to improve performance, reduce errors, and provide greater value to the customer.","options": ["Continuous Improvement", "Quality Control", "Quality Management", "Inspection"],"correct": 0},
-                        {"question": "One of the early stages in the development of quality management where the focus was on inspecting the product or service after completion in order to identify errors and reject non-conforming results.","options": ["Quality Control Stage", "Quality Assurance Stage", "Inspection Stage", "Total Quality Management Stage"],"correct": 2},
-                        {"question": "The stage in the development of quality management thought that shifted attention from simply detecting errors to monitoring the processes that produce the service, with the aim of reducing the occurrence of errors.","options": ["Inspection Stage", "Quality Control Stage", "Quality Assurance Stage", "Total Quality Management Stage"],"correct": 1},
-                        {"question": "The stage that focused on preventing errors instead of detecting them after they occurred, directing attention toward designing processes and procedures in a way that helps achieve quality from the beginning.","options": ["Quality Control Stage", "Total Quality Management Stage", "Quality Assurance Stage", "Inspection Stage"],"correct": 2},
-                        {"question": "The stage representing a more comprehensive development in management thought where quality became the responsibility of all employees and connected with the organization's culture, process management, and customer relationships.","options": ["Quality Assurance Stage", "Total Quality Management Stage", "Quality Control Stage", "Inspection Stage"],"correct": 1},
                     ]
                 },
-                // {
-                //     "id": 3,
-                //     "title": "المحاضرة 4: الجمل الشرطية",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"الجمل الشرطية\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture4/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Responsible",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         },
-                //         {
-                //             "word": "Communicate",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         },
-                //         {
-                //             "word": "Improve",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         }
-                //     ],
-                //     "importantPoints": [],
-                //     "flashcards": [
-                //         {
-                //             "term": "Responsible",
-                //             "definition": "مصطلح متعلق بموضوع الجمل الشرطية يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         },
-                //         {
-                //             "term": "Communicate",
-                //             "definition": "مفهوم أساسي ضمن درس الجمل الشرطية يساعد على الفهم العميق للموضوع.",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'الجمل الشرطية' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الجمل الشرطية'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'الجمل الشرطية'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الجمل الشرطية'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 4,
-                //     "title": "المحاضرة 5: المبني للمجهول",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"المبني للمجهول\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture5/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Confidence",
-                //             "translation": "الثقة",
-                //             "example": "Confidence comes with practice."
-                //         },
-                //         {
-                //             "word": "Schedule",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         },
-                //         {
-                //             "word": "Negotiate",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "راجع المحتوى بشكل دوري لتثبيت المعلومة.",
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Confidence",
-                //             "definition": "مصطلح متعلق بموضوع المبني للمجهول يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "الثقة",
-                //             "example": "Confidence comes with practice."
-                //         },
-                //         {
-                //             "term": "Schedule",
-                //             "definition": "مفهوم أساسي ضمن درس المبني للمجهول يساعد على الفهم العميق للموضوع.",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'المبني للمجهول' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'المبني للمجهول'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'المبني للمجهول'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'المبني للمجهول'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 5,
-                //     "title": "المحاضرة 6: أدوات الربط",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"أدوات الربط\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture6/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Essential",
-                //             "translation": "ضروري",
-                //             "example": "Water is essential for life."
-                //         },
-                //         {
-                //             "word": "Deadline",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         },
-                //         {
-                //             "word": "Efficient",
-                //             "translation": "فعّال / كفؤ",
-                //             "example": "This method is more efficient."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Essential",
-                //             "definition": "مصطلح متعلق بموضوع أدوات الربط يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "ضروري",
-                //             "example": "Water is essential for life."
-                //         },
-                //         {
-                //             "term": "Deadline",
-                //             "definition": "مفهوم أساسي ضمن درس أدوات الربط يساعد على الفهم العميق للموضوع.",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'أدوات الربط' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'أدوات الربط'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'أدوات الربط'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'أدوات الربط'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 7,
-                //     "title": "المحاضرة 7: الصفات والظروف",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"الصفات والظروف\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture7/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Destination",
-                //             "translation": "الوجهة",
-                //             "example": "Paris is a popular travel destination."
-                //         },
-                //         {
-                //             "word": "Reservation",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         },
-                //         {
-                //             "word": "Currency",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة.",
-                //         "مارس المفردات الجديدة في جمل من إنشائك."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Destination",
-                //             "definition": "مصطلح متعلق بموضوع الصفات والظروف يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "الوجهة",
-                //             "example": "Paris is a popular travel destination."
-                //         },
-                //         {
-                //             "term": "Reservation",
-                //             "definition": "مفهوم أساسي ضمن درس الصفات والظروف يساعد على الفهم العميق للموضوع.",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'الصفات والظروف' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الصفات والظروف'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'الصفات والظروف'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الصفات والظروف'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 8,
-                //     "title": "المحاضرة 8: مراجعة القواعد",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"مراجعة القواعد\" ضمن قسم \"قواعد اللغة الإنجليزية\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section3_lecture8/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Achieve",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         },
-                //         {
-                //             "word": "Environment",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         },
-                //         {
-                //             "word": "Opportunity",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         }
-                //     ],
-                //     "importantPoints": [],
-                //     "flashcards": [
-                //         {
-                //             "term": "Achieve",
-                //             "definition": "مصطلح متعلق بموضوع مراجعة القواعد يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         },
-                //         {
-                //             "term": "Environment",
-                //             "definition": "مفهوم أساسي ضمن درس مراجعة القواعد يساعد على الفهم العميق للموضوع.",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'مراجعة القواعد' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مراجعة القواعد'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'مراجعة القواعد'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مراجعة القواعد'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // }
+                {
+                    "id": 3,
+                    "title": "المحاضرة 3",
+                    "vocabulary": [],
+                    "quiz": [
+                        
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "المحاضرة 4",
+                    "vocabulary": [],
+                    "quiz": [
+                        
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "المحاضرة 5",
+                    "vocabulary": [],
+                    "quiz": [
+                        
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "المحاضرة 7",
+                    "vocabulary": [],
+                    "quiz": [
+                        
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "المحاضرة 8",
+                    "vocabulary": [],
+                    "quiz": [
+                        
+                    ]
+                }
             ]
         },
         {
@@ -2034,665 +924,61 @@ const platformData = {
             "title": "الاتجاهات الحديثة في السياحة",
             "icon": "fa-solid fa-directions",
             "lectures": [
-                // {
-                //     "id": 1,
-                //     "title": "المحاضرة 1: كتابة الجملة",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"كتابة الجملة\" ضمن قسم \"مهارات الكتابة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section4_lecture1/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Environment",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         },
-                //         {
-                //             "word": "Opportunity",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         },
-                //         {
-                //             "word": "Responsible",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة.",
-                //         "مارس المفردات الجديدة في جمل من إنشائك."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Environment",
-                //             "definition": "مصطلح متعلق بموضوع كتابة الجملة يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         },
-                //         {
-                //             "term": "Opportunity",
-                //             "definition": "مفهوم أساسي ضمن درس كتابة الجملة يساعد على الفهم العميق للموضوع.",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'كتابة الجملة' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'كتابة الجملة'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'كتابة الجملة'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'كتابة الجملة'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 2,
-                //     "title": "المحاضرة 2: كتابة الفقرة",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"كتابة الفقرة\" ضمن قسم \"مهارات الكتابة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section4_lecture2/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Communicate",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         },
-                //         {
-                //             "word": "Improve",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         },
-                //         {
-                //             "word": "Confidence",
-                //             "translation": "الثقة",
-                //             "example": "Confidence comes with practice."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "مارس المفردات الجديدة في جمل من إنشائك.",
-                //         "استمع للنطق الصحيح قبل التكرار."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Communicate",
-                //             "definition": "مصطلح متعلق بموضوع كتابة الفقرة يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         },
-                //         {
-                //             "term": "Improve",
-                //             "definition": "مفهوم أساسي ضمن درس كتابة الفقرة يساعد على الفهم العميق للموضوع.",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'كتابة الفقرة' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'كتابة الفقرة'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'كتابة الفقرة'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'كتابة الفقرة'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 3,
-                //     "title": "المحاضرة 3: الرسائل الرسمية",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"الرسائل الرسمية\" ضمن قسم \"مهارات الكتابة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section4_lecture3/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Schedule",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         },
-                //         {
-                //             "word": "Negotiate",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         },
-                //         {
-                //             "word": "Essential",
-                //             "translation": "ضروري",
-                //             "example": "Water is essential for life."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "استمع للنطق الصحيح قبل التكرار.",
-                //         "راجع المحتوى بشكل دوري لتثبيت المعلومة."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Schedule",
-                //             "definition": "مصطلح متعلق بموضوع الرسائل الرسمية يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         },
-                //         {
-                //             "term": "Negotiate",
-                //             "definition": "مفهوم أساسي ضمن درس الرسائل الرسمية يساعد على الفهم العميق للموضوع.",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'الرسائل الرسمية' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'الرسائل الرسمية'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'الرسائل الرسمية'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'الرسائل الرسمية'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 4,
-                //     "title": "المحاضرة 4: البريد الإلكتروني المهني",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"البريد الإلكتروني المهني\" ضمن قسم \"مهارات الكتابة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section4_lecture4/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Deadline",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         },
-                //         {
-                //             "word": "Efficient",
-                //             "translation": "فعّال / كفؤ",
-                //             "example": "This method is more efficient."
-                //         },
-                //         {
-                //             "word": "Destination",
-                //             "translation": "الوجهة",
-                //             "example": "Paris is a popular travel destination."
-                //         }
-                //     ],
-                //     "importantPoints": [],
-                //     "flashcards": [
-                //         {
-                //             "term": "Deadline",
-                //             "definition": "مصطلح متعلق بموضوع البريد الإلكتروني المهني يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "الموعد النهائي",
-                //             "example": "The deadline for the report is Friday."
-                //         },
-                //         {
-                //             "term": "Efficient",
-                //             "definition": "مفهوم أساسي ضمن درس البريد الإلكتروني المهني يساعد على الفهم العميق للموضوع.",
-                //             "translation": "فعّال / كفؤ",
-                //             "example": "This method is more efficient."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'البريد الإلكتروني المهني' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'البريد الإلكتروني المهني'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'البريد الإلكتروني المهني'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'البريد الإلكتروني المهني'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 5,
-                //     "title": "المحاضرة 5: كتابة المقال",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"كتابة المقال\" ضمن قسم \"مهارات الكتابة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section4_lecture5/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Reservation",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         },
-                //         {
-                //             "word": "Currency",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         },
-                //         {
-                //             "word": "Achieve",
-                //             "translation": "يحقق / ينجز",
-                //             "example": "She worked hard to achieve her goals."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "لا تخف من ارتكاب الأخطاء أثناء التدرب.",
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Reservation",
-                //             "definition": "مصطلح متعلق بموضوع كتابة المقال يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "حجز",
-                //             "example": "I made a reservation for two people."
-                //         },
-                //         {
-                //             "term": "Currency",
-                //             "definition": "مفهوم أساسي ضمن درس كتابة المقال يساعد على الفهم العميق للموضوع.",
-                //             "translation": "العملة",
-                //             "example": "The local currency is the euro."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'كتابة المقال' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'كتابة المقال'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'كتابة المقال'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'كتابة المقال'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 6,
-                //     "title": "المحاضرة 6: التقارير",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"التقارير\" ضمن قسم \"مهارات الكتابة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section4_lecture6/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Environment",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         },
-                //         {
-                //             "word": "Opportunity",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         },
-                //         {
-                //             "word": "Responsible",
-                //             "translation": "مسؤول",
-                //             "example": "He is responsible for the whole project."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "افهم القاعدة أولاً قبل حفظ الأمثلة.",
-                //         "مارس المفردات الجديدة في جمل من إنشائك."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Environment",
-                //             "definition": "مصطلح متعلق بموضوع التقارير يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "البيئة",
-                //             "example": "Protecting the environment is important."
-                //         },
-                //         {
-                //             "term": "Opportunity",
-                //             "definition": "مفهوم أساسي ضمن درس التقارير يساعد على الفهم العميق للموضوع.",
-                //             "translation": "فرصة",
-                //             "example": "This job is a great opportunity for growth."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'التقارير' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'التقارير'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'التقارير'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'التقارير'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 7,
-                //     "title": "المحاضرة 7: علامات الترقيم",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"علامات الترقيم\" ضمن قسم \"مهارات الكتابة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section4_lecture7/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Communicate",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         },
-                //         {
-                //             "word": "Improve",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         },
-                //         {
-                //             "word": "Confidence",
-                //             "translation": "الثقة",
-                //             "example": "Confidence comes with practice."
-                //         }
-                //     ],
-                //     "importantPoints": [
-                //         "مارس المفردات الجديدة في جمل من إنشائك.",
-                //         "استمع للنطق الصحيح قبل التكرار."
-                //     ],
-                //     "flashcards": [
-                //         {
-                //             "term": "Communicate",
-                //             "definition": "مصطلح متعلق بموضوع علامات الترقيم يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "يتواصل",
-                //             "example": "It's important to communicate clearly."
-                //         },
-                //         {
-                //             "term": "Improve",
-                //             "definition": "مفهوم أساسي ضمن درس علامات الترقيم يساعد على الفهم العميق للموضوع.",
-                //             "translation": "يُحسّن",
-                //             "example": "Practice will improve your skills."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'علامات الترقيم' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'علامات الترقيم'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'علامات الترقيم'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'علامات الترقيم'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // },
-                // {
-                //     "id": 8,
-                //     "title": "المحاضرة 8: مراجعة الكتابة",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"مراجعة الكتابة\" ضمن قسم \"مهارات الكتابة\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://drive.google.com/file/d/PLACEHOLDER_section4_lecture8/view",
-                //     "vocabulary": [
-                //         {
-                //             "word": "Schedule",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         },
-                //         {
-                //             "word": "Negotiate",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         },
-                //         {
-                //             "word": "Essential",
-                //             "translation": "ضروري",
-                //             "example": "Water is essential for life."
-                //         }
-                //     ],
-                //     "importantPoints": [],
-                //     "flashcards": [
-                //         {
-                //             "term": "Schedule",
-                //             "definition": "مصطلح متعلق بموضوع مراجعة الكتابة يُستخدم في السياقات التعليمية والعملية.",
-                //             "translation": "جدول زمني",
-                //             "example": "Please check the schedule for the meeting."
-                //         },
-                //         {
-                //             "term": "Negotiate",
-                //             "definition": "مفهوم أساسي ضمن درس مراجعة الكتابة يساعد على الفهم العميق للموضوع.",
-                //             "translation": "يتفاوض",
-                //             "example": "They negotiated a better price."
-                //         }
-                //     ],
-                //     "quiz": [
-                //         {
-                //             "question": "ما هو المعنى الأصح لموضوع 'مراجعة الكتابة' في هذا الدرس؟",
-                //             "options": [
-                //                 "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //                 "إجابة غير مرتبطة بالموضوع",
-                //                 "إجابة عامة غير دقيقة",
-                //                 "لا شيء مما سبق"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'مراجعة الكتابة'؟",
-                //             "options": [
-                //                 "الاستخدام الصحيح كما ورد في الشرح",
-                //                 "استخدام خاطئ شائع",
-                //                 "استخدام قديم غير مستعمل",
-                //                 "استخدام غير مرتبط"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "عند التطبيق العملي لدرس 'مراجعة الكتابة'، ماذا يجب أن تفعل أولاً؟",
-                //             "options": [
-                //                 "اتباع الخطوات كما وردت في الدرس",
-                //                 "تجاهل القاعدة الأساسية",
-                //                 "البدء بدون فهم الأساسيات",
-                //                 "حفظ الأمثلة فقط دون فهم"
-                //             ],
-                //             "correct": 0
-                //         },
-                //         {
-                //             "question": "أي جملة تعكس بشكل صحيح فكرة 'مراجعة الكتابة'؟",
-                //             "options": [
-                //                 "الجملة التي تطبق القاعدة بشكل صحيح",
-                //                 "جملة تحتوي على خطأ واضح",
-                //                 "جملة غير مكتملة",
-                //                 "جملة بلغة أخرى تمامًا"
-                //             ],
-                //             "correct": 0
-                //         }
-                //     ]
-                // }
-            ]
+                {
+                    "id": 1,
+                    "title": "المحاضرة 1",
+                    "vocabulary": [],
+                    "quiz": [
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "المحاضرة 2",
+                    "vocabulary": [],
+                    "quiz": [
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "المحاضرة 3",
+                    "vocabulary": [],
+                    "quiz": [
+                        
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "المحاضرة 4",
+                    "vocabulary": [],
+                    "quiz": [
+                        
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "المحاضرة 5",
+                    "vocabulary": [],
+                    "quiz": [
+                        
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "المحاضرة 7",
+                    "vocabulary": [],
+                    "quiz": [
+                        
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "المحاضرة 8",
+                    "vocabulary": [],
+                    "quiz": [
+                        
+                    ]
+                }
+                ]
         },
         {
             "id": 5,
@@ -3684,16 +1970,7 @@ const platformData = {
                     //     ],
                     //     "correct": 0
                     // },
-                    // {
-                    //     "question": "",
-                    //     "options": [
-                    //         "",
-                    //         "",
-                    //         "",
-                    //         ""
-                    //     ],
-                    //     "correct": 0
-                    // },
+                    // {"question": "","options": ["","", "",""],"correct": 0},
                     // {
                     //     "question": "",
                     //     "options": [
@@ -4375,124 +2652,558 @@ const platformData = {
                 // }
             ]
         },
+        // بسنت
         {
             "id": 6,
             "key": "section6",
             "title": "الادارة السياحية",
             "icon": "fa-solid fa-users-gear",
             "lectures": [
-                // {
-                //     "id": 1,
-                //     "title": "المحاضرة الاولي",
-                //     // "content": "في هذه المحاضرة سنتناول موضوع \"المقابلات الشخصية\" ضمن قسم \"اللغة الإنجليزية للأعمال\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://docs.google.com/presentation/d/1-RLpGq6zMHUNcNgy8c-MUHdQOjPvSQVT/edit?usp=drive_link&ouid=103688394259662958672&rtpof=true&sd=true",
-                //     "vocabulary": [
-        
-                //     ],
-                //     "importantPoints": [
-                //     ],
-                //     "flashcards": [
+                {
+                    "id": 1,
+                    "title": "المحاضرة الاولي",
+                    "vocabulary": [],
+                    "quiz": [
+                    {
+    "question": "Which civilization's administrative practice was manifested in the construction of the Pyramids through organizing the work of hundreds of thousands of workers?",
+    "options": [
+        "Babylonian Civilization",
+        "Ancient Egyptian Civilization",
+        "Islamic Civilization",
+        "Industrial Revolution Era"
+    ],
+    "correct": 1
+},
+{
+    "question": "What did the Code of Hammurabi in the Babylonian Civilization demonstrate?",
+    "options": [
+        "Organization of the public treasury (Bayt al-Mal)",
+        "Time and motion study for workers",
+        "Administrative and legal control by establishing minimum wages and defining responsibilities",
+        "Introduction of the administrative system of departments (Diwans)"
+    ],
+    "correct": 2
+},
+{
+    "question": "Which of the following represents a contribution of Islamic Civilization to management?",
+    "options": [
+        "Transition from manual to large factory systems",
+        "Establishing strict hierarchy and written rules",
+        "Organizing Bayt al-Mal, introducing Diwans, and selecting governors based on competence and honesty",
+        "Implementing the piece-rate system for financial incentives"
+    ],
+    "correct": 2
+},
+{
+    "question": "When did management form as an organized science containing classified principles and theories?",
+    "options": [
+        "During the Ancient Egyptian Civilization",
+        "During the Babylonian Civilization",
+        "During the Industrial Revolution in the 19th century",
+        "During the rule of Hammurabi"
+    ],
+    "correct": 2
+},
+{
+    "question": "Which of the following was a primary reason for the shift of management into an independent science?",
+    "options": [
+        "The construction of large monuments and pyramids",
+        "The transition from manual, home-based production to large factory systems",
+        "The introduction of the Islamic Diwan system",
+        "The creation of the Code of Hammurabi"
+    ],
+    "correct": 1
+},
+{
+    "question": "What was the main focus of the Classical (Traditional) Schools of Thought?",
+    "options": [
+        "Psychological and social aspects of the worker",
+        "Production efficiency, work flow control, and physical/clerical aspects",
+        "Rational authority and strict bureaucratic rules exclusively",
+        "Long-term strategic planning for top management"
+    ],
+    "correct": 1
+},
+{
+    "question": "Which classical school focuses specifically on the workshop/worker level and increasing productivity?",
+    "options": [
+        "Administrative Management School",
+        "Bureaucratic School",
+        "Scientific Management School",
+        "Islamic Administrative Model"
+    ],
+    "correct": 2
+},
+{
+    "question": "What is the core focus of the Administrative Management School led by Henri Fayol?",
+    "options": [
+        "Worker-level physical movements",
+        "Top management level and comprehensive administrative principles",
+        "Strict written rules and impersonal relations",
+        "Establishing minimum wages and commercial rules"
+    ],
+    "correct": 1
+},
+{
+    "question": "Which school focuses primarily on organizational structure and strict rules and regulations?",
+    "options": [
+        "Scientific Management School",
+        "Bureaucratic School (Max Weber)",
+        "Fayol's Administrative School",
+        "Classical Workshop School"
+    ],
+    "correct": 1
+},
+{
+    "question": "What was Frederick Taylor's approach to replacing Rule-of-Thumb in the Scientific Management School?",
+    "options": [
+        "Relying on personal discretion and intuition",
+        "Time and Motion Study to determine the single best way to perform each task",
+        "Implementing the Islamic Diwans system",
+        "Setting long-term strategic visions for top management"
+    ],
+    "correct": 1
+},
+{
+    "question": "How did Scientific Management handle worker training and selection?",
+    "options": [
+        "Random assignment of tasks based on availability",
+        "Selecting the right worker for the right job and training them according to specific steps",
+        "Promoting workers strictly based on personal connections",
+        "Leaving training entirely to the workers' personal discretion"
+    ],
+    "correct": 1
+},
+{
+    "question": "What mechanism did Frederick Taylor use to link pay to productivity and drive worker motivation?",
+    "options": [
+        "Bureaucratic impersonal rules",
+        "Financial incentives using the piece-rate system",
+        "Long-term strategic bonuses",
+        "Fixed salaries independent of output"
+    ],
+    "correct": 1
+},
+{
+    "question": "In Taylor's Scientific Management, how are responsibilities divided?",
+    "options": [
+        "Planning tasks are management responsibility, while execution tasks are workers' responsibility",
+        "Planning tasks are handled by workers, while execution is handled by top management",
+        "All tasks are managed through strict bureaucratic hierarchy",
+        "Management handles only daily operational supervision"
+    ],
+    "correct": 0
+},
+{
+    "question": "How did Henri Fayol's Administrative School view management?",
+    "options": [
+        "From bottom to top, focusing exclusively on workshop tools",
+        "From top to bottom (from top management's perspective) as a general activity applicable to any institution",
+        "As a set of rigid legal rules that prevent personal discretion",
+        "As a religious model for public treasury organization"
+    ],
+    "correct": 1
+},
 
-                //     ],
-                //     "quiz": [
-                //         // {
-                //         //     "question": "ما هو المعنى الأصح لموضوع 'المقابلات الشخصية' في هذا الدرس؟",
-                //         //     "options": [
-                //         //         "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //         //         "إجابة غير مرتبطة بالموضوع",
-                //         //         "إجابة عامة غير دقيقة",
-                //         //         "لا شيء مما سبق"
-                //         //     ],
-                //         //     "correct": 0
-                //         // },
-                //         // {
-                //         //     "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'المقابلات الشخصية'؟",
-                //         //     "options": [
-                //         //         "الاستخدام الصحيح كما ورد في الشرح",
-                //         //         "استخدام خاطئ شائع",
-                //         //         "استخدام قديم غير مستعمل",
-                //         //         "استخدام غير مرتبط"
-                //         //     ],
-                //         //     "correct": 0
-                //         // },
-                //         // {
-                //         //     "question": "عند التطبيق العملي لدرس 'المقابلات الشخصية'، ماذا يجب أن تفعل أولاً؟",
-                //         //     "options": [
-                //         //         "اتباع الخطوات كما وردت في الدرس",
-                //         //         "تجاهل القاعدة الأساسية",
-                //         //         "البدء بدون فهم الأساسيات",
-                //         //         "حفظ الأمثلة فقط دون فهم"
-                //         //     ],
-                //         //     "correct": 0
-                //         // },
-                //         // {
-                //         //     "question": "أي جملة تعكس بشكل صحيح فكرة 'المقابلات الشخصية'؟",
-                //         //     "options": [
-                //         //         "الجملة التي تطبق القاعدة بشكل صحيح",
-                //         //         "جملة تحتوي على خطأ واضح",
-                //         //         "جملة غير مكتملة",
-                //         //         "جملة بلغة أخرى تمامًا"
-                //         //     ],
-                //         //     "correct": 0
-                //         // }
-                //     ]
-                // },
-                // {
-                //     "id": 2,
-                //     "title": "المحاضرة الثانية ",
-                //     "content": "في هذه المحاضرة سنتناول موضوع \"كتابة السيرة الذاتية\" ضمن قسم \"اللغة الإنجليزية للأعمال\". سنستعرض المفاهيم الأساسية، أمثلة تطبيقية، وتمارين عملية تساعدك على إتقان هذا الجزء من المنهج. يُنصح بمراجعة المفردات والنقاط المهمة قبل الانتقال إلى الاختبار الخاص بالمحاضرة.",
-                //     "pdfUrl": "https://docs.google.com/presentation/d/1-SqUhdCsRHKRPwCAoRmcOXUHrPj8ZmPF/edit?usp=drive_link&ouid=103688394259662958672&rtpof=true&sd=true",
-                //     "vocabulary": [
-        
-                //     ],
-                //     "importantPoints": [
-                //     ],
-                //     "flashcards": [
-
-                //     ],
-                //     "quiz": [
-                //         // {
-                //         //     "question": "ما هو المعنى الأصح لموضوع 'المقابلات الشخصية' في هذا الدرس؟",
-                //         //     "options": [
-                //         //         "الإجابة الصحيحة والمرتبطة بالموضوع",
-                //         //         "إجابة غير مرتبطة بالموضوع",
-                //         //         "إجابة عامة غير دقيقة",
-                //         //         "لا شيء مما سبق"
-                //         //     ],
-                //         //     "correct": 0
-                //         // },
-                //         // {
-                //         //     "question": "أي مما يلي يُعد استخدامًا صحيحًا لما تم شرحه في 'المقابلات الشخصية'؟",
-                //         //     "options": [
-                //         //         "الاستخدام الصحيح كما ورد في الشرح",
-                //         //         "استخدام خاطئ شائع",
-                //         //         "استخدام قديم غير مستعمل",
-                //         //         "استخدام غير مرتبط"
-                //         //     ],
-                //         //     "correct": 0
-                //         // },
-                //         // {
-                //         //     "question": "عند التطبيق العملي لدرس 'المقابلات الشخصية'، ماذا يجب أن تفعل أولاً؟",
-                //         //     "options": [
-                //         //         "اتباع الخطوات كما وردت في الدرس",
-                //         //         "تجاهل القاعدة الأساسية",
-                //         //         "البدء بدون فهم الأساسيات",
-                //         //         "حفظ الأمثلة فقط دون فهم"
-                //         //     ],
-                //         //     "correct": 0
-                //         // },
-                //         // {
-                //         //     "question": "أي جملة تعكس بشكل صحيح فكرة 'المقابلات الشخصية'؟",
-                //         //     "options": [
-                //         //         "الجملة التي تطبق القاعدة بشكل صحيح",
-                //         //         "جملة تحتوي على خطأ واضح",
-                //         //         "جملة غير مكتملة",
-                //         //         "جملة بلغة أخرى تمامًا"
-                //         //     ],
-                //         //     "correct": 0
-                //         // }
-                //     ]
-                // },
+{
+    "question": "What are the responsibilities and time horizon of Middle Management?",
+    "options": [
+        "Strategic and long-term; setting general corporate visions",
+        "Tactical and medium-term; converting strategies into operational plans and monitoring department performance",
+        "Operational and short-term; supervising daily tasks and solving immediate issues",
+        "Piece-rate execution and physical labor"
+    ],
+    "correct": 1
+},
+{
+    "question": "Which management level directly supervises employees and handles immediate operational problem-solving?",
+    "options": [
+        "Top Management",
+        "Middle Management",
+        "Supervisory Management",
+        "Bureaucratic Committee"
+    ],
+    "correct": 2
+},
+{
+    "question": "According to Henri Fayol, what does the Planning function involve?",
+    "options": [
+        "Building the physical and human structure of the organization",
+        "Forecasting the future and drawing up plans of action",
+        "Guiding and motivating subordinates",
+        "Ensuring everything occurs in conformity with established rules"
+    ],
+    "correct": 1
+},
+{
+    "question": "Which of Fayol's functions of management is defined as Building the physical and human structure of the organization?",
+    "options": [
+        "Organizing",
+        "Coordinating",
+        "Commanding",
+        "Controlling"
+    ],
+    "correct": 0
+},
+{
+    "question": "What does Fayol's function of Commanding (Directing) entail?",
+    "options": [
+        "Unifying and harmonizing all organizational activities",
+        "Forecasting future actions",
+        "Guiding and motivating subordinates",
+        "Checking performance against rules"
+    ],
+    "correct": 2
+},
+{
+    "question": "According to Henri Fayol, what is the purpose of the Coordinating function?",
+    "options": [
+        "Binding together, unifying, and harmonizing all activities",
+        "Setting strict written rules and impersonal regulations",
+        "Separating planning from execution tasks",
+        "Selecting workers through scientific methods"
+    ],
+    "correct": 0
+},
+{
+    "question": "What is the definition of the Controlling function in Fayol's management functions?",
+    "options": [
+        "Guiding and motivating subordinates daily",
+        "Seeing that everything occurs in conformity with established rules and expressed commands",
+        "Building the physical and human structure",
+        "Forecasting long-term operational strategies"
+    ],
+    "correct": 1
+},
+{
+    "question": "Who presented the structural bureaucratic model relying on rational authority and strict rules?",
+    "options": [
+        "Frederick Taylor",
+        "Henri Fayol",
+        "Max Weber",
+        "Hammurabi"
+    ],
+    "correct": 2
+},
+{
+    "question": "What characterizes the Strict Hierarchy in a bureaucratic organization?",
+    "options": [
+        "Reliance on fixed laws leaving no room for personal discretion",
+        "Clear division of jobs and authority from top to bottom",
+        "Appointment and promotion based purely on personal connections",
+        "Linking worker pay directly to piece-rate productivity"
+    ],
+    "correct": 1
+},
+{
+    "question": "What is the impact of Written Rules and Regulations in Max Weber's Bureaucratic School?",
+    "options": [
+        "They encourage personal discretion and intuition",
+        "They rely on fixed laws governing all decisions, leaving no room for personal discretion",
+        "They focus strictly on financial incentives and piece-rate pay",
+        "They eliminate the need for any organizational structure"
+    ],
+    "correct": 1
+},
+{
+    "question": "What does Impersonality mean in the context of Max Weber's Bureaucratic Organization?",
+    "options": [
+        "Treating employees and clients based strictly on regulations without bias or personal relationships",
+        "Selecting workers based on their physical strength in the workshop",
+        "Unifying and harmonizing all company activities",
+        "Allowing managers to use personal intuition in decision-making"
+    ],
+    "correct": 0
+},
+{
+    "question": "How are appointments and promotions handled under Job Specialization in the Bureaucratic School?",
+    "options": [
+        "Based on personal connections and favoritism",
+        "Based on technical qualifications, competence, and scientific credentials rather than personal connections",
+        "Based purely on piece-rate workshop productivity",
+        "Based on short-term operational problem-solving skills"
+    ],
+    "correct": 1
+}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "المحاضرة الثانية ",
+                    "vocabulary": [],
+                    "quiz": [
+                        {
+    "question": "Why did the Behavioral School and modern trends emerge in management?",
+    "options": [
+        "To completely eliminate physical conditions in factories",
+        "To address the shortcomings of classical thought, specifically the neglect of the human element and the external environment",
+        "To focus exclusively on bureaucratic written rules and impersonal relations",
+        "To restrict management strictly to piece-rate financial incentives"
+    ],
+    "correct": 1
+},
+{
+    "question": "What were the core results regarding workers highlighted by the Human Relations Movement (Hawthorne Studies - Elton Mayo)?",
+    "options": [
+        "Workers function purely as machines driven solely by physical lighting conditions",
+        "Psychological and social factors (such as recognition and team morale) affect productivity more than physical conditions",
+        "Strict hierarchical control and impersonal rules are the only drivers of high output",
+        "Planning tasks must be completely separated from execution tasks"
+    ],
+    "correct": 1
+},
+{
+    "question": "What does Informal Organization refer to within the context of the Human Relations Movement?",
+    "options": [
+        "The official top-down strategic plan set by the board of directors",
+        "A network of informal social relationships existing among workers inside the factory that shapes their behavior and production output",
+        "The written legal regulations and bureaucratic hierarchies established by Max Weber",
+        "The formal division of labor into planning and execution"
+    ],
+    "correct": 1
+},
+{
+    "question": "According to the Human Relations Movement, what is the impact of democratic leadership and genuine care for workers?",
+    "options": [
+        "Decreased employee loyalty and lower production output",
+        "Increased employee loyalty and productivity",
+        "Total reliance on automated digital management and artificial intelligence",
+        "Elimination of the need for organizational structures and departments"
+    ],
+    "correct": 1
+},
+{
+    "question": "How does Systems Theory view the organization?",
+    "options": [
+        "As a closed, isolated entity focused exclusively on internal workshop operations",
+        "As an integrated whole made up of interrelated parts, functioning as an open system that continuously interacts with the external environment",
+        "As a rigid bureaucratic hierarchy governed strictly by impersonal written rules",
+        "As a system driven entirely by piece-rate financial incentives"
+    ],
+    "correct": 1
+},
+{
+    "question": "Which element of Systems Theory includes human, physical, financial, and informational resources?",
+    "options": [
+        "Transformation Processes",
+        "Outputs",
+        "Inputs",
+        "Feedback"
+    ],
+    "correct": 2
+},
+{
+    "question": "What is the role of Transformation Processes in a system?",
+    "options": [
+        "Evaluating finished products to modify future inputs",
+        "Administrative and technical activities that transform inputs into outputs",
+        "Gathering customer databases and market research studies",
+        "Securing capital loans and managing corporate budgets"
+    ],
+    "correct": 1
+},
+{
+    "question": "What do the Outputs of a system consist of?",
+    "options": [
+        "Raw materials, machinery, and physical buildings",
+        "Human resources, liquidity, and loans",
+        "Products, services, and profits",
+        "Administrative planning and organizing functions"
+    ],
+    "correct": 2
+},
+{
+    "question": "How is Feedback defined within Systems Theory?",
+    "options": [
+        "The immediate disruption of production lines due to machinery failure",
+        "Evaluating outputs to modify and enhance inputs and processes",
+        "The separation of planning responsibilities from execution tasks",
+        "Dealing with employees strictly according to written regulations"
+    ],
+    "correct": 1
+},
+{
+    "question": "What does the principle of Interdependence in Systems Theory mean?",
+    "options": [
+        "Every department operates completely independently of other units",
+        "Any dysfunction in one department (such as marketing) affects the remaining departments (such as production and finance)",
+        "Management decisions depend solely on external environmental shocks",
+        "Worker productivity is dictated purely by piece-rate incentives"
+    ],
+    "correct": 1
+},
+{
+    "question": "What is the core premise of Contingency (Situational) Theory?",
+    "options": [
+        "There is a single best universal management style suitable for all times and places",
+        "There is no single best way to manage suitable for all times and places; decisions depend on the specific situation and surrounding environment",
+        "Management must rely exclusively on bureaucratic hierarchy and strict rules",
+        "Organizations must eliminate all informal social structures"
+    ],
+    "correct": 1
+},
+{
+    "question": "How is Total Quality Management (TQM) defined?",
+    "options": [
+        "Radical rethinking and fundamental redesign of business processes",
+        "Continuous improvement of processes and products aimed at customer satisfaction, involving all members of the organization",
+        "Relying entirely on artificial intelligence and data analytics for decision-making",
+        "Enforcing strict top-down commands without worker participation"
+    ],
+    "correct": 1
+},
+{
+    "question": "What is Business Process Reengineering (BPR / الهندرة)?",
+    "options": [
+        "The routine maintenance of physical machinery and preventive equipment care",
+        "Radical rethinking and fundamental redesign of organizational processes to achieve dramatic improvements in performance metrics (cost, quality, speed)",
+        "The transition from manual home-based production to large factory systems",
+        "Setting basic departmental budgets and allocating financial capital"
+    ],
+    "correct": 1
+},
+{
+    "question": "What characterizes Digital Management as a contemporary management trend?",
+    "options": [
+        "Maintaining traditional paper-based transactions and manual ledgers",
+        "Relying on artificial intelligence technologies and data analytics in administrative decision-making, moving away from traditional paper-based transactions",
+        "Focusing exclusively on shop-floor time and motion studies",
+        "Replacing human resources entirely with physical automated machinery"
+    ],
+    "correct": 1
+},
+{
+    "question": "What is the comprehensive definition of Management?",
+    "options": [
+        "The process of planning, organizing, leading (directing), and controlling available resources, utilizing them with the highest possible efficiency and effectiveness to achieve specific, predetermined goals",
+        "The strict enforcement of bureaucratic rules and impersonal regulations without personal discretion",
+        "The informal social networking among factory workers to boost team morale",
+        "The financial management of capital liquidity and corporate loan distribution"
+    ],
+    "correct": 0
+},
+{
+    "question": "What does treating management as a Process signify?",
+    "options": [
+        "It is a single, isolated event that occurs only during the establishment of a firm",
+        "It is not a single, isolated event, but rather a continuous, interconnected set of activities and stages where each stage directly influences the others",
+        "It focuses solely on the execution phase carried out by manual workers",
+        "It relies strictly on mathematical algorithms and artificial intelligence"
+    ],
+    "correct": 1
+},
+{
+    "question": "Which of the following defines the Planning administrative function?",
+    "options": [
+        "Measuring actual performance and correcting deviations",
+        "Setting goals and outlining paths and action plans to achieve them",
+        "Allocating tasks and defining organizational structure responsibilities",
+        "Motivating individuals and facilitating communication"
+    ],
+    "correct": 1
+},
+{
+    "question": "What activities are encompassed under the Organizing administrative function?",
+    "options": [
+        "Forecasting future events and drawing up long-term strategies",
+        "Allocating tasks, defining responsibilities, and establishing the administrative structure",
+        "Guiding subordinates and monitoring daily operational problem-solving",
+        "Comparing actual performance against planned schedules"
+    ],
+    "correct": 1
+},
+{
+    "question": "What is the main focus of the Directing (Leading) function?",
+    "options": [
+        "Building the physical and financial infrastructure of the firm",
+        "Motivating individuals, leading them, and facilitating communication to ensure work execution",
+        "Establishing written bureaucratic regulations and impersonal hierarchies",
+        "Conducting time and motion studies on the workshop floor"
+    ],
+    "correct": 1
+},
+{
+    "question": "According to the breakdown of administrative functions, what does Controlling involve?",
+    "options": [
+        "Measuring actual performance, comparing it against the plan, and correcting deviations if any exist",
+        "Drawing up initial action plans and forecasting future market conditions",
+        "Recruiting new talent and attracting human resources",
+        "Securing financial loans and managing capital budgets"
+    ],
+    "correct": 0
+},
+{
+    "question": "Why are Human Resources considered the most vital resource element in an organization?",
+    "options": [
+        "Because they consist exclusively of tangible assets like machinery and buildings",
+        "Because they comprise individuals across all organizational levels (workers, engineers, managers) whose mental and physical capabilities drive the organization",
+        "Because they manage corporate cash liquidity and capital loans",
+        "Because they rely solely on automated digital AI algorithms"
+    ],
+    "correct": 1
+},
+{
+    "question": "What does the management of Financial Resources include?",
+    "options": [
+        "Buildings, raw materials, and technological setups",
+        "Capital, liquidity, loans, and revenues",
+        "Market research studies and customer databases",
+        "Employee recruitment and psychological team morale"
+    ],
+    "correct": 1
+},
+{
+    "question": "What is the specific management role concerning Financial Resources?",
+    "options": [
+        "Purchasing management and preventive maintenance of machinery",
+        "Budget management, securing financing, and allocating capital to operational and investment initiatives at the lowest cost and highest return",
+        "Gathering customer databases and analyzing market data",
+        "Implementing piece-rate wages based on physical output"
+    ],
+    "correct": 1
+},
+{
+    "question": "Which of the following represents Physical Resources?",
+    "options": [
+        "Capital liquidity, revenues, and bank loans",
+        "Tangible assets such as buildings, equipment, machinery, raw materials, and technological setups",
+        "Organizational knowledge, research studies, and customer databases",
+        "Workers, engineers, and executive managers"
+    ],
+    "correct": 1
+},
+{
+    "question": "What is the role of management regarding Physical Resources?",
+    "options": [
+        "Securing long-term strategic capital investments and loans",
+        "Purchasing management, maintenance, preventive maintenance, and ensuring uninterrupted production lines",
+        "Recruiting talented personnel and conducting training programs",
+        "Analyzing market research and processing customer databases"
+    ],
+    "correct": 1
+},
+{
+    "question": "What do Informational Resources encompass?",
+    "options": [
+        "Physical machinery, buildings, and raw materials",
+        "Data, research, market studies, customer databases, and organizational knowledge",
+        "Cash liquidity, revenues, and capital budgets",
+        "Human labor and physical workshop tools"
+    ],
+    "correct": 1
+},
+{
+    "question": "What is the primary role of management regarding Informational Resources?",
+    "options": [
+        "Accurately gathering and analyzing information, using it to make strategic decisions based on facts rather than speculation",
+        "Maintaining physical equipment and conducting preventive machinery maintenance",
+        "Allocating financial capital and managing corporate bank loans",
+        "Enforcing strict bureaucratic rules and impersonal hierarchies"
+    ],
+    "correct": 0
+}
+                    ]
+                },
                 // {
                 //     "id": 3,
                 //     "title": "المحاضرة الثالثة",
