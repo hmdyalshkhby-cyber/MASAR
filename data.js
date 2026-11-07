@@ -867,6 +867,156 @@ const platformData = {
                     "title": "المحاضرة 1",
                     "vocabulary": [],
                     "quiz": [
+                            {
+                                "question": "Why has quality become one of the most important factors for tourism organizations?",
+                                "options": ["Because competition is decreasing", "Because tourists only care about price", "Because of increasing competition and rising tourist expectations", "Because tourism products are physical goods"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Besides price and physical features, tourists care about:",
+                                "options": ["Service level, quick response, good treatment, safety, and ease of obtaining the service", "Only the size of the establishment", "Only the number of employees", "Only advertising campaigns"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Why is quality especially important in the tourism industry?",
+                                "options": ["Tourism products are mass-produced", "The tourism product depends largely on services and direct interaction between tourists and service providers", "Tourism has no customers", "Tourism does not rely on employees"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "In general, quality refers to:",
+                                "options": ["The highest possible price of a product", "The luxury level of a product", "The number of features a product has", "The ability of a product or service to meet the customer's requirements, needs, and expectations"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "Is quality necessarily related to high prices or luxury?",
+                                "options": ["No, it relates to how well the service meets the customer's needs and expectations", "Yes, higher prices always mean higher quality", "Yes, luxury is the only measure of quality", "Yes, but only in hotels"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Quality in the tourism industry is defined as the ability to continuously provide products, services, and experiences that meet tourists' needs while maintaining:",
+                                "options": ["Maximum profit and minimum staff", "Efficiency, reliability, and safety", "Low prices and fast growth", "Luxury and exclusivity"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Evaluation of tourism service quality depends largely on:",
+                                "options": ["The opinion of management only", "The opinion of employees only", "The tourist's perception of the service received", "The price charged"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Which characteristic means a tourism service cannot be fully examined before purchase?",
+                                "options": ["Perishability", "Variability", "Simultaneous production and consumption", "Intangibility"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "Because of intangibility, tourists depend on which factors when making purchase decisions?",
+                                "options": ["Reputation, reviews, photos, and recommendations", "Physical inspection of the service", "Employee seniority", "The establishment's age only"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Which are examples of services produced and consumed at the same time?",
+                                "options": ["Printed brochures and maps", "Reception services and tour guiding", "Souvenirs and gifts", "Stored food supplies"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Why is employee-tourist interaction essential to service quality?",
+                                "options": ["It is not essential", "It only matters for management", "Because the service is often produced and consumed simultaneously, so the interaction is part of the quality itself", "Because it reduces prices"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Variability in tourism services means:",
+                                "options": ["Services cannot be stored", "Services are always identical", "Services cannot be seen before purchase", "Quality may differ between employees or from one time to another"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "How can establishments maintain a stable level of service despite variability?",
+                                "options": ["By using standards and procedures", "By reducing the number of customers", "By raising prices", "By avoiding training"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Perishability means that:",
+                                "options": ["Services vary between employees", "Unused tourism capacity cannot be stored and sold later", "Services cannot be examined before purchase", "Services are consumed as they are produced"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Which is an example of perishability?",
+                                "options": ["Different guides giving different tours", "Reading hotel reviews online", "An unsold hotel room or an empty seat on a tourist trip", "A receptionist greeting a guest"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Which is NOT a characteristic of tourism services listed in the lecture?",
+                                "options": ["Intangibility", "Variability", "Perishability", "Storability"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "Which of the following is an importance of quality in tourism?",
+                                "options": ["Increasing complaints", "Reducing the possibility of repeat visits", "Increasing the possibility of repeat visits or repeat business", "Making competition irrelevant"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Quality helps build a competitive advantage that is difficult to achieve through:",
+                                "options": ["Reputation alone", "Employee skills", "Price alone", "Customer care"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "A tourist's evaluation of service quality comes from comparing:",
+                                "options": ["Their expectations before the service with their perception of the actual service", "Prices of different hotels", "The service with management's goals", "Their income with the service price"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "If performance is lower than expectations, the tourist will usually feel:",
+                                "options": ["Highly satisfied", "Dissatisfied", "Acceptably satisfied", "Loyal"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "If performance meets expectations, the tourist will achieve:",
+                                "options": ["Dissatisfaction", "High delight", "An acceptable level of satisfaction", "No opinion"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "If performance exceeds expectations, the tourist may:",
+                                "options": ["Become dissatisfied", "Ignore the experience", "Expect a lower price", "Feel highly satisfied and be more willing to repeat the experience or recommend it"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "Competitive advantage appears through:",
+                                "options": ["Providing better value to tourists compared with competitors", "Copying competitors exactly", "Reducing service levels", "Limiting customer access"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Which of the following contributes to competitive advantage?",
+                                "options": ["Slow problem resolution", "The ability to solve problems quickly and effectively", "Inconsistent performance", "Limited customer care"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "According to the concept of total quality, quality in tourism establishments is:",
+                                "options": ["Limited to one department", "The duty of the reception employee only", "Related to all activities and processes within the organization", "Determined only at the final inspection"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Hotel quality is affected by:",
+                                "options": ["Only the reception employee", "Only the price of rooms", "Only reservations", "Cleanliness, maintenance, food and beverage services, training, reservations, and customer service"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "Total Quality Management (TQM) considers quality:",
+                                "options": ["A shared responsibility among all employees, focused on customer needs and continuous improvement", "The job of the quality department only", "A one-time achievement", "Unrelated to customer needs"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Which principle emphasizes dealing with errors before they happen?",
+                                "options": ["Responding to errors only after complaints", "Reducing errors and working to prevent them before they occur", "Ignoring minor errors", "Blaming employees for errors"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Which of the following is a basic principle of tourism quality?",
+                                "options": ["Avoiding customer feedback", "Keeping standards flexible and unwritten", "Using customer opinions and evaluation results to improve performance", "Limiting employee training"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "According to the conclusion, achieving quality should not be viewed only as:",
+                                "options": ["Meeting tourists' needs", "Continuously improving service stages", "An integrated system", "A process of inspection or error detection"],
+                                "correct": 3
+                            }
                     ]
                 },
                 {
@@ -881,7 +1031,7 @@ const platformData = {
                     "title": "المحاضرة 3",
                     "vocabulary": [],
                     "quiz": [
-                        
+                              
                     ]
                 },
                 {
@@ -889,7 +1039,306 @@ const platformData = {
                     "title": "المحاضرة 4",
                     "vocabulary": [],
                     "quiz": [
-                        
+                       {
+                                "question": "How is Total Quality Management (TQM) best defined?",
+                                "options": ["A task performed only by the quality control department", "An integrated management approach focused on customer satisfaction through all employees continuously improving processes and services", "A method for inspecting the final service before delivery", "A pricing strategy for tourism services"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Who is responsible for achieving quality under TQM?",
+                                "options": ["One designated quality manager", "Only front-line employees", "Everyone, starting from top management and extending to all employees", "Only the customer service department"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Why is TQM especially important in tourism organizations?",
+                                "options": ["They depend heavily on services and direct interaction with customers", "They produce physical goods in factories", "They have no competition", "They do not need employee training"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Where does Total Quality Management begin?",
+                                "options": ["At the final service delivery stage", "With planning, organizing, and selecting and training employees", "After customer complaints are received", "With advertising campaigns"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "In tourism organizations, TQM covers activities affecting the tourist experience from:",
+                                "options": ["Arrival at the hotel until checkout only", "The booking stage until the service is completed and the customer leaves", "Payment until receipt of the invoice", "The complaint stage until its resolution"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Which of the following is NOT an objective of TQM in tourism organizations?",
+                                "options": ["Increasing tourist satisfaction", "Reducing errors and problems", "Increasing employee participation", "Focusing exclusively on short-term results"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "Beyond short-term results, TQM aims to build:",
+                                "options": ["A system that maintains quality and develops it as customer needs change", "A fixed set of rules that never changes", "A larger management hierarchy", "A separate quality department"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Under the principle of Customer Focus, who is at the center of the quality process?",
+                                "options": ["The manager", "The supplier", "The competitor", "The tourist"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "What does Customer Focus NOT mean?",
+                                "options": ["Understanding tourists' needs and expectations", "Fulfilling every customer request", "Using customer evaluations to improve services", "Providing real value to customers"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Which of the following is a responsibility of top management in TQM?",
+                                "options": ["Setting policies and objectives, providing resources, and monitoring results", "Handling all customer complaints personally", "Performing all service tasks", "Delegating quality entirely to employees"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Management's commitment to quality should be evident in:",
+                                "options": ["Slogans and posters", "Written instructions alone", "Daily decisions and practices", "Annual reports"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Why does TQM require employee involvement?",
+                                "options": ["Employees are only responsible for following orders", "Employees are directly involved in producing tourism services and can identify problems and suggest solutions", "It reduces the need for management", "It eliminates the need for training"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "How does TQM view quality?",
+                                "options": ["As a fixed level to be reached once", "As the responsibility of inspectors", "As a cost to be minimized", "As something continuously improved by seeking better ways of working"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "Which is an example of continuous improvement mentioned in the lecture?",
+                                "options": ["Increasing prices", "Reducing the number of employees", "Using technology, reducing time, or improving communication", "Ignoring minor complaints"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Which of the following is an example of data used for quality-related decisions?",
+                                "options": ["Personal opinions of managers", "Complaint rates, cancellation rates, and waiting times", "Rumors among staff", "Competitors' advertising slogans"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "How can TQM be applied in hotels?",
+                                "options": ["By developing booking, reception, and accommodation procedures and following up on guest complaints", "By focusing only on room decoration", "By reducing the number of departments", "By outsourcing all guest services"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "In travel agencies, TQM focuses on:",
+                                "options": ["Cleanliness of food preparation areas", "Maintenance of vehicles", "Room reception procedures", "Accuracy of information, trip organization, supplier selection, and coordination between services"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "In tourism restaurants, TQM attention can be given to:",
+                                "options": ["Quality of materials, cleanliness, preparation and service procedures, and service speed", "Trip itineraries", "Vehicle maintenance", "Booking systems only"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "In tourism transportation companies, quality includes:",
+                                "options": ["Menu design", "Organizing operations, following procedures, maintaining vehicles, and improving how passengers are treated", "Hotel room standards", "Supplier advertising"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "According to the lecture, in TQM quality becomes:",
+                                "options": ["A final stage after the service has been delivered", "A separate department's duty", "Part of different activities throughout the service", "An optional extra"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Which of the following is part of employees' role in TQM?",
+                                "options": ["Hiding problems to protect the department", "Avoiding cooperation with other departments", "Leaving improvement suggestions to management only", "Reporting problems and participating in suggesting improvements"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "According to the lecture, improving quality starts with:",
+                                "options": ["Improving the work environment", "Increasing prices", "Hiring more managers", "Reducing training"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "What are customer satisfaction surveys used for?",
+                                "options": ["Setting employee salaries", "Identifying satisfaction levels and discovering areas that need improvement", "Replacing internal reviews", "Selecting suppliers"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "What is the purpose of complaint analysis?",
+                                "options": ["Only to solve the immediate problem", "To assign blame to employees", "To solve the problem and identify why it may happen repeatedly", "To reduce the number of complaints recorded"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Which of these is an example of a performance indicator?",
+                                "options": ["Hotel location", "Employee age", "Response time, error rate, or complaint rate", "Number of advertisements"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "What is the purpose of internal review?",
+                                "options": ["To ensure established procedures and standards are followed and to identify weaknesses", "To collect tourist opinions", "To train new employees", "To set prices"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Which of the following is a requirement for successful TQM implementation?",
+                                "options": ["Avoiding employee involvement", "Vague quality objectives", "A performance measurement system", "Limiting information to top management"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Why does TQM implementation take time and effort?",
+                                "options": ["It requires expensive equipment", "Tourists change their preferences slowly", "Laws require a long approval process", "Changing an organization's culture does not happen immediately"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "Which obstacle involves expecting immediate results even though TQM needs time?",
+                                "options": ["Resistance to change", "Focus on quick results", "Lack of training", "Weak coordination between departments"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "According to the conclusion, TQM shifts management attention from:",
+                                "options": ["Prevention to correcting errors", "Employees to customers only", "Dealing with errors after they occur to prevention, continuous improvement, and participation of all employees", "Long-term planning to short-term goals"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "What is the main focus of Customer Focus?",
+                                "options": ["Top management", "The tourist", "Employees", "Technology"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "The tourist is at the center of the:",
+                                "options": ["Production process", "Marketing process", "Quality process", "Financial process"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "What must the organization understand?",
+                                "options": ["Employees' salaries", "Tourists' needs and expectations", "Competitors' profits", "Government policies"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Which of the following helps improve tourism services?",
+                                "options": ["Ignoring complaints", "Reducing employee participation", "Using opinions, complaints, and evaluations", "Increasing prices only"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Customer Focus means fulfilling every customer request.",
+                                "options": ["True", "False", "Only in hotels", "Only in airlines"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Customer Focus means designing services that provide:",
+                                "options": ["High prices", "Real value to the customer", "More advertisements", "Luxury only"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Services should be consistent with the nature and ______ of the organization.",
+                                "options": ["Complaints", "Expectations", "Capabilities", "Evaluations"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "TQM cannot be implemented effectively without the support of:",
+                                "options": ["Tourists", "Suppliers", "Top management", "Competitors"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Who is responsible for setting policies and objectives?",
+                                "options": ["Tourists", "Management", "Competitors", "Suppliers"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Which of the following is a responsibility of management?",
+                                "options": ["Providing resources", "Ignoring results", "Avoiding training", "Reducing communication"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Management is responsible for monitoring:",
+                                "options": ["Tourist arrivals only", "Results", "Competitors' employees", "Weather conditions"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Management's commitment to quality should be clear in:",
+                                "options": ["Slogans only", "Written instructions only", "Daily decisions and practices", "Advertisements only"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Management's commitment should not be limited to:",
+                                "options": ["Daily practices", "Actual decisions", "Slogans or written instructions", "Quality improvement"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Employees are directly involved in producing:",
+                                "options": ["Government policies", "Tourism services", "Financial regulations", "Competitors' products"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Successful quality management requires employee participation in:",
+                                "options": ["Identifying problems", "Avoiding responsibility", "Ignoring customers", "Reducing communication"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Employees should participate in suggesting:",
+                                "options": ["Problems", "Solutions", "Complaints", "Cancellations"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Which of the following helps employees provide better service?",
+                                "options": ["Ignoring training", "Reducing motivation", "Training and motivating employees", "Removing responsibility"],
+                                "correct": 2
+                            },
+                            {
+                                "question": "Giving employees an appropriate level of ______ helps improve their ability.",
+                                "options": ["Advertising", "Responsibility", "Complaints", "Cancellation"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "TQM views quality as:",
+                                "options": ["A fixed level", "A continuous improvement process", "A temporary activity", "A one-time inspection"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Continuous Improvement means seeking:",
+                                "options": ["Higher prices", "Better ways of performing work", "Fewer employees", "More complaints"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Which of the following is an example of Continuous Improvement?",
+                                "options": ["Developing procedures", "Ignoring technology", "Increasing waiting times", "Avoiding communication"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Improvement may include using:",
+                                "options": ["Technology", "Only paper records", "Fewer customer evaluations", "Slogans only"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Which of the following is NOT mentioned as an improvement method?",
+                                "options": ["Reducing time", "Improving communication", "Redesigning services", "Increasing errors"],
+                                "correct": 3
+                            },
+                            {
+                                "question": "Quality-related decisions require:",
+                                "options": ["Personal opinions only", "Actual information", "Random guesses", "Advertisements"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Which of the following is an example of actual information?",
+                                "options": ["Customer survey results", "Personal assumptions", "Rumors", "Unverified opinions"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Which of the following is used to measure quality?",
+                                "options": ["Complaint rates", "Employee hobbies", "Office colors", "Personal preferences of managers"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Which of the following is mentioned as a quality indicator?",
+                                "options": ["Cancellation rates", "Employee age", "Building height", "Advertising budget"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Waiting times and service evaluations are examples of:",
+                                "options": ["Actual information", "Management slogans", "Fixed quality levels", "Employee motivation"],
+                                "correct": 0
+                            },
+                            {
+                                "question": "Analyzing data helps management to:",
+                                "options": ["Ignore problems", "Identify problems and make accurate decisions", "Increase complaints", "Avoid customer surveys"],
+                                "correct": 1
+                            },
+                            {
+                                "question": "Data-Based Decision-Making focuses on decisions based on:",
+                                "options": ["Guesswork", "Actual data and information", "Personal feelings only", "Random choices"],
+                                "correct": 1
+                            }  
                     ]
                 },
                 {
